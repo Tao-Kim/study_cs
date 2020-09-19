@@ -8,3 +8,4 @@
 * https://github.com/JaeYeopHan/Interview_Question_for_Beginner#what-is-this?
 * https://github.com/GimunLee/tech-refrigerator
 * https://github.com/jihyuno301/tech-interview
+* 이외 글에 첨부함
