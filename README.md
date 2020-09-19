@@ -1,4 +1,4 @@
-# CS 정리용
+# CS 공부 정리용
 
 #### 참고 사이트
 * https://gyoogle.dev/blog/
