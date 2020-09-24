@@ -1,11 +1,6 @@
-# CS 공부 정리용
+# study_cs
+CS 공부 정리용 링크 모음
 
-#### 참고 사이트
-* https://gyoogle.dev/blog/
-* https://github.com/devetude/Data-Structure-QnA
-* https://github.com/leesk0502/Tech-Interview-QnA
-* https://github.com/Donsworkout/techInterview
-* https://github.com/JaeYeopHan/Interview_Question_for_Beginner#what-is-this?
-* https://github.com/GimunLee/tech-refrigerator
-* https://github.com/jihyuno301/tech-interview
-* 이외 글에 첨부함
+### 운영체제
+* [프로세스와 스레드 - github WooVictory/Ready-For-Tech_Interview](https://github.com/WooVictory/Ready-For-Tech-Interview/blob/master/Operating%20System/%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4%EC%99%80%20%EC%8A%A4%EB%A0%88%EB%93%9C.md)
+----
