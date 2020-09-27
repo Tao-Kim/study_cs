@@ -3,6 +3,13 @@
 
 ### 운영체제
 * [**프로세스와 스레드**](https://github.com/Tao-Kim/study_cs/blob/master/%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C/%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4%EC%99%80%20%EC%8A%A4%EB%A0%88%EB%93%9C.md)
+* [**IPC**](https://github.com/Tao-Kim/study_cs/blob/master/%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C/IPC(Inter%20Process%20Communication)2.md)
+* [** 동기화 문제**]
+* [** 교착 상태(Dead lock)**]
+* cpu 스케쥴링
+* 메모리 관리
+* 인터럽트
+* 시스템콜
 ----
 
 
