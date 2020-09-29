@@ -22,7 +22,7 @@
 * [**페이지 교체 알고리즘**](https://github.com/Tao-Kim/study_cs/blob/master/%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C/PageReplacement.md)
 * [메모리 기타](https://github.com/Tao-Kim/study_cs/blob/master/%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C/%EB%A9%94%EB%AA%A8%EB%A6%AC%20%EA%B8%B0%ED%83%80.md)
 * [파일 시스템](https://github.com/Tao-Kim/study_cs/blob/master/%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C/File%20System.md)
-* [언어 번역 프로그램](https://github.com/Tao-Kim/study_cs/blob/master/%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D%20%EC%96%B8%EC%96%B4%20%EB%B2%88%EC%97%AD.md)
+* [**언어 번역 프로그램**](https://github.com/Tao-Kim/study_cs/blob/master/%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D%20%EC%96%B8%EC%96%B4%20%EB%B2%88%EC%97%AD.md)
 
 ### 데이터베이스
 * [데이터베이스 기본 용어](https://github.com/Tao-Kim/study_cs/blob/master/%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4/%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4%20%EA%B8%B0%EB%B3%B8%20%EC%9A%A9%EC%96%B4.md)
