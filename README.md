@@ -32,6 +32,7 @@
 * [SQL vs NoSQL](https://github.com/Tao-Kim/study_cs/blob/master/%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4/SQL%20vs%20NoSQL.md)
 * [레디스 REDIS](https://codingmania.tistory.com/18)
 * [SQL Injection](https://github.com/WooVictory/Ready-For-Tech-Interview/blob/master/Database/SQL%20-%20Injection.md)
+* SQL 정리
 
 ### 네트워크
 
