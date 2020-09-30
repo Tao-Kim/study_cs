@@ -52,9 +52,12 @@ CS 및 개발공부를 위해 양질의 자료를 제공해주신 [**출처 사�
 * [**데이터베이스 개요**](https://github.com/Tao-Kim/study_cs/blob/master/%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4/%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4.md)
 * [인덱스](https://github.com/Tao-Kim/study_cs/blob/master/%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4/%5BDB%5D%20Index.md)
 * [조인](https://github.com/Tao-Kim/study_cs/blob/master/%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4/SQL%20-%20Join.md)
+* [정규화]
 * [SQL vs NoSQL](https://github.com/Tao-Kim/study_cs/blob/master/%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4/SQL%20vs%20NoSQL.md)
 * [레디스 REDIS - (tistory) sungho88님](https://codingmania.tistory.com/18)
 * [SQL Injection](https://github.com/Tao-Kim/study_cs/blob/master/%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4/SQL%20-%20Injection.md)
+* [프로시저]
+* [트리거]
 * [mysql 기본 명령어 & sql문 - (egloos) 황제펭귄님](http://egloos.zum.com/darkit/v/211771)
 <br>
 
