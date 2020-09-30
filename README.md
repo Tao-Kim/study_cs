@@ -33,6 +33,7 @@ CS 및 개발공부를 위해 양질의 자료를 제공해주신 [**출처 사�
 * [시스템 콜](https://github.com/Tao-Kim/study_cs/blob/master/%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C/%EC%8B%9C%EC%8A%A4%ED%85%9C%20%EC%BD%9C(System%20Call).md)
 * [인터럽트](https://github.com/Tao-Kim/study_cs/blob/master/%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C/%EC%9D%B8%ED%84%B0%EB%9F%BD%ED%8A%B8(Interrupt).md)
 * [동기와 비동기](https://github.com/Tao-Kim/study_cs/blob/master/%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C/%EB%8F%99%EA%B8%B0%EC%99%80%20%EB%B9%84%EB%8F%99%EA%B8%B0.md)
+* [Blocking IO & Non-Blocking IO](https://github.com/Tao-Kim/study_cs/blob/master/%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C/Blocking%20Non-Blocking%20IO.md)
 * [**프로세스와 스레드**](https://github.com/Tao-Kim/study_cs/blob/master/%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C/%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4%EC%99%80%20%EC%8A%A4%EB%A0%88%EB%93%9C.md)
 * [IPC](https://github.com/Tao-Kim/study_cs/blob/master/%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C/IPC(Inter%20Process%20Communication)2.md)
 * [**동기화 문제**](https://github.com/Tao-Kim/study_cs/blob/master/%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C/%EB%8F%99%EA%B8%B0%ED%99%94%20%EB%AC%B8%EC%A0%9C.md)
@@ -91,12 +92,35 @@ CS 및 개발공부를 위해 양질의 자료를 제공해주신 [**출처 사�
 <br>
 
 ## 네트워크
+* [OSI 7계층](https://github.com/Tao-Kim/study_cs/blob/master/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC/OSI%207%20%EA%B3%84%EC%B8%B5.md)
+* [TCP](https://github.com/Tao-Kim/study_cs/blob/master/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC/TCP.md)
+* [UDP](https://github.com/Tao-Kim/study_cs/blob/master/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC/UDP.md)
+* [TCP 연결 해제 과정](https://github.com/Tao-Kim/study_cs/blob/master/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC/3%20way%20handshake.md)
+* [공개키 & 대칭키](https://github.com/Tao-Kim/study_cs/blob/master/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC/%EA%B3%B5%EA%B0%9C%ED%82%A4%20%26%20%EB%8C%80%EC%B9%AD%ED%82%A4.md)
+* [HTTP와 HTTPS 차이](https://github.com/Tao-Kim/study_cs/blob/master/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC/HTTP%2C%20HTTPS.md)
+* [로드 밸런싱](https://github.com/Tao-Kim/study_cs/blob/master/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC/%EB%A1%9C%EB%93%9C%20%EB%B0%B8%EB%9F%B0%EC%8B%B1(Load%20Balancing).md)
 <br>
+
+## WEB (작업중)
+* [Web Server와 WAS의 차이](https://github.com/Tao-Kim/study_cs/blob/master/%EC%9B%B9/Web%20Server%EC%99%80%20WAS%EC%9D%98%20%EC%B0%A8%EC%9D%B4.md)
+* [브라우저 동작 방법 -1](https://github.com/Tao-Kim/study_cs/blob/master/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC/%EC%A3%BC%EC%86%8C%EC%B0%BD%EC%97%90%20naver.com%EC%9D%84%20%EC%B9%98%EB%A9%B4%20%EC%9D%BC%EC%96%B4%EB%82%98%EB%8A%94%20%EC%9D%BC.md)
+* [브라우저 동작 방법 -2](https://github.com/Tao-Kim/study_cs/blob/master/%EC%9B%B9/%EB%B8%8C%EB%9D%BC%EC%9A%B0%EC%A0%80%20%EB%8F%99%EC%9E%91%20%EB%B0%A9%EB%B2%95.md)
+* [쿠키와 세션](https://github.com/Tao-Kim/study_cs/blob/master/%EC%9B%B9/Cookie%20%26%20Session.md)
+* [HTTP 상태코드](https://github.com/Tao-Kim/study_cs/blob/master/%EC%9B%B9/HTTP%20status%20code.md)
+* [UI & UX](https://github.com/Tao-Kim/study_cs/blob/master/%EC%9B%B9/UI%EC%99%80%20UX.md)
+* [Logging Level](https://github.com/Tao-Kim/study_cs/blob/master/%EC%9B%B9/Logging%20Level.md)
 
 ## 소프트웨어 공학
 <br>
 
-## 디자인 패턴
+## 디자인 패턴 (작업중)
+* [디자인패턴 개요](https://github.com/Tao-Kim/study_cs/blob/master/%EB%94%94%EC%9E%90%EC%9D%B8%ED%8C%A8%ED%84%B4/%5BDesign%20Pattern%5D%20Overview.md)
+* [어댑터 패턴](https://github.com/Tao-Kim/study_cs/blob/master/%EB%94%94%EC%9E%90%EC%9D%B8%ED%8C%A8%ED%84%B4/Adapter%20Pattern.md)
+* [싱글톤 패턴](https://github.com/Tao-Kim/study_cs/blob/master/%EB%94%94%EC%9E%90%EC%9D%B8%ED%8C%A8%ED%84%B4/Singleton%20Pattern.md)
+* [템플릿 패턴](https://github.com/Tao-Kim/study_cs/blob/master/%EB%94%94%EC%9E%90%EC%9D%B8%ED%8C%A8%ED%84%B4/Design%20Pattern_Template%20Method.md)
+* [팩토리 메소드 패턴](https://github.com/Tao-Kim/study_cs/blob/master/%EB%94%94%EC%9E%90%EC%9D%B8%ED%8C%A8%ED%84%B4/Design%20Pattern_Factory%20Method.md)
+* [옵저버 패턴](https://github.com/Tao-Kim/study_cs/blob/master/%EB%94%94%EC%9E%90%EC%9D%B8%ED%8C%A8%ED%84%B4/Observer%20pattern.md)
+* [스트라테시 패턴](https://github.com/Tao-Kim/study_cs/blob/master/%EB%94%94%EC%9E%90%EC%9D%B8%ED%8C%A8%ED%84%B4/Strategy%20Pattern.md)
 <br>
 
 ## 자바
