@@ -92,7 +92,7 @@ CS 및 개발공부를 위해 양질의 자료를 제공해주신 [**출처 사�
 * [누적합 - Codility_](https://codility.com/media/train/3-PrefixSums.pdf)
 <br>
 
-## 네트워크
+## 네트워크 (작업중)
 * [OSI 7계층](https://github.com/Tao-Kim/study_cs/blob/master/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC/OSI%207%20%EA%B3%84%EC%B8%B5.md)
 * [TCP](https://github.com/Tao-Kim/study_cs/blob/master/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC/TCP.md)
 * [UDP](https://github.com/Tao-Kim/study_cs/blob/master/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC/UDP.md)
