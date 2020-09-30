@@ -31,6 +31,8 @@
 - Tree는 Stack이나 Queue와 같이 선형 구조가 아닌 비선형 자료구조이다. 
 - 계층적 관계를 표현한다.
 - 루트 노드를 제외한 모든 노드는 단 하나의 부모 노드만을 갖는다.
+- 방향성이 있는 비순환 그래프로 loop나 circuit이 없다.
+- 루트에서 어떤 노드로 가는 경로는 유일하다.
 
 
 
@@ -40,9 +42,9 @@
 
 - Node : 트리를 구성하는 각각의 요소.
 - Edge : 트리를 구성하기 위해 노드와 노드를 연결하는 선.
-- Root Node : 트리 구조에서 최상위에 있는 노드.
-- Terminal Node : 하위에 다른 노드가 연결되어 있지 않은 노드.
-- Internal Node : 단말 노드를 제외한 모든 노드로 루트 노드를 포함한다. 
+- 루트 노드-Root Node : 트리 구조에서 최상위에 있는 노드.
+- 단말 노드-Terminal Node(= Leaf Node) : 하위에 다른 노드가 연결되어 있지 않은 노드.
+- 내부 노드-Internal Node : 단말 노드를 제외한 모든 노드로 루트 노드를 포함한다. 
 
 
 
@@ -59,6 +61,42 @@
   - **Complete Binary Tree(완전 이진 트리)** : 왼쪽에서 오른쪽으로 순서대로 차곡 차곡 채워진 이진 트리를 의미한다.
     - 노드를 삽입할 때 왼쪽부터 차례대로 삽입하는 트리이다. 왼쪽이 비어있고 오른쪽이 들어가있는 트리는 완전 이진 트리가 아니다.
   - **Skewed Binary Tree(편향 이진 트리)** : 모든 노드가 부모의 왼쪽 자식이기 때문에 왼쪽으로 편향되어 있거나 반대로 모든 노드가 부모의 오른쪽 자식이기 때문에 오른쪽으로 편향되어 있는 이진 트리를 말한다.
+  - **Full Binary Tree(정 이진 트리)** : 단말 노드를 제외한 모든 노드가 자식노드를 2개 또는 0개 가지는 이진 트리
+
+<br>
+
+> ### 트리의 종류 - 설명은 별도 파일로 작성
+> * **이진 트리**
+>   * 부모 노드가 2개의 자식노드를 갖는 형태
+>   * 이진 트리의 노드 상태에 따라 포화 이진트리, 완전 이진 트리, 정 이진 트리로 구별하기도 함   
+>   * **Heap**  
+>     * 완전 이진 트리의 일종으로 우선순위 큐에 활용됨 - 최대 힙, 최소 힙
+>  * **이진 탐색 트리**
+>    * 이진 트리 형태로 노드의 위치를 값의 비교로 정한 형태 - 숫자를 예로 부모의 노드는 왼쪽 자식 노드보다 크고 오른쪽 자식노드보다 작음
+>    * 탐색에 효율적임
+>    * 하지만 입출력되는 데이터에 따라 트리 구조가 편향되는 문제점 있음
+>      * -> **균형 이진 탐색 트리**
+>         * AVL, Red-Black Tree
+>           * **AVL**
+>             * 가장 초기의 균형 이진 탐색 트리
+>             * 리프간 높이 차이가 커질 경우 회전(재구성)시키는 방식
+>             * 트리 구조에 따라 회전 방식이 달라짐
+>             * [추천 사이트](https://velog.io/@soonbee/AVL-Tree%EB%A5%BC-%EC%95%8C%EC%95%84%EB%B3%B4%EC%9E%90)
+>           * **Red-Black Tree**
+>             * [추천 사이트](https://nesoy.github.io/articles/2018-08/Algorithm-RedblackTree)
+>             * [추천 사이트2](https://assortrock.com/87)
+> * **B 트리**
+>   * [추천 사이트](https://m.blog.naver.com/beaqon/221300200294)
+>   * [추천 사이트2](https://hyungjoon6876.github.io/jlog/2018/07/20/btree.html)
+>   * [추천 사이트3](https://gyoogle.dev/blog/computer-science/data-structure/B%20Tree%20&%20B+%20Tree.html)
+> * **B+ 트리**
+>   * [추천 사이트](https://ssoonidev.tistory.com/tag/B%2B%ED%8A%B8%EB%A6%AC)
+>   * [추천 사이트2](https://gyoogle.dev/blog/computer-science/data-structure/B%20Tree%20&%20B+%20Tree.html)
+> * **Trie 트라이**
+>   * [추천 사이트](https://yabmoons.tistory.com/379)
+>   * [추천 사이트2](https://brunch.co.kr/@springboot/75)
+----
+
 
 
 
