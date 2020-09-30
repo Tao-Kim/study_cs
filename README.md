@@ -6,6 +6,7 @@
 * [고정 소수점 & 부동 소수점](https://github.com/Tao-Kim/study_cs/blob/master/%EC%BB%B4%ED%93%A8%ED%84%B0%EA%B5%AC%EC%A1%B0/%EA%B3%A0%EC%A0%95%20%EC%86%8C%EC%88%98%EC%A0%90%20%26%20%EB%B6%80%EB%8F%99%20%EC%86%8C%EC%88%98%EC%A0%90.md)
 * [패리티 비트 & 해밍 코드 - (naverBlog) 푸른하늘의해님](https://m.blog.naver.com/PostView.nhn?blogId=k97b1114&logNo=140158639535&proxyReferer=https:%2F%2Fwww.google.com%2F)
 * [문자열 인코딩 - (tistory) 딩규님](https://dingue.tistory.com/16)
+* [ARM 프로세서](https://github.com/Tao-Kim/study_cs/blob/master/%EC%BB%B4%ED%93%A8%ED%84%B0%EA%B5%AC%EC%A1%B0/ARM%20%ED%94%84%EB%A1%9C%EC%84%B8%EC%84%9C.md)
 
 
 ### 운영체제
@@ -38,6 +39,13 @@
 ### 네트워크
 
 ### 자료구조
+* [**선형 자료구조**](https://github.com/Tao-Kim/study_cs/blob/master/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0/%EC%84%A0%ED%98%95%20%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0.md)
+* [**TREE**](https://github.com/Tao-Kim/study_cs/blob/master/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0/%5BData%20Structure%5D%20Tree.md)
+* [**HEAP**]()
+* [균형 이진 탐색 트리]()
+* [B/B+ 트리]()
+* [Trie 트라이]()
+* [**HASH**]()
 
 ### 소프트웨어 공학
 
