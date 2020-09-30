@@ -6,7 +6,7 @@
 
 <br>
 
-#### B Tree
+### B Tree
 
 ---
 
@@ -28,7 +28,7 @@ ex) 한 블럭이 1024 바이트면, 2바이트를 읽으나 1024바이트를 �
 → B-Tree는 이러한 장점을 토대로 많은 데이터베이스 시스템의 인덱스 저장 방법으로 애용하고 있음
 ```
 
-<br>
+
 
 ##### 규칙
 
@@ -39,11 +39,14 @@ ex) 한 블럭이 1024 바이트면, 2바이트를 읽으나 1024바이트를 �
 - 외부 노드로 가는 경로의 길이는 모두 같음.
 - 입력 자료는 중복 될 수 없음
 
-<br>
+![untitle](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2Fcikell%2FbtqBRvDU1xF%2FCdIhvg8XEhHKaP23vE4Ju1%2Fimg.jpg)
+
+> 참고) 추천 사이트 [B트리 연산 - (naver blog) BQRIUM님](https://m.blog.naver.com/beaqon/221300200294)
 
 <br>
+<br>
 
-#### B+ Tree
+### B+ Tree
 
 ---
 
@@ -67,27 +70,26 @@ B-Tree의 변형 구조로, index 부분과 leaf 노드로 구성된 순차 데�
 
 > B-tree의 경우 최상 케이스에서는 루트에서 끝날 수 있지만, B+tree는 무조건 leaf 노드까지 내려가봐야 함
 
-<br>
+
+![untitle](https://raw.githubusercontent.com/sayef/tech/master/uploads/2015/10/1-1024x463.jpg)
+
+> 참고) [B+ tree 위키백과](https://ko.wikipedia.org/wiki/B%2B_%ED%8A%B8%EB%A6%AC)
+
 
 <br>
 
 <br>
 
-##### B-Tree & B+ Tree
+### 비교
+___
 
-> B-tree는 각 노드에 데이터가 저장됨
->
-> B+tree는 index 노드와 leaf 노드로 분리되어 저장됨
->
-> (또한, leaf 노드는 서로 연결되어 있어서 임의접근이나 순차접근 모두 성능이 우수함)
-
-<br>
-
-B-tree는 각 노드에서 key와 data 모두 들어갈 수 있고, data는 disk block으로 포인터가 될 수 있음
-
-B+tree는 각 노드에서 key만 들어감. 따라서 data는 모두 leaf 노드에만 존재
-
-B+tree는 add와 delete가 모두 leaf 노드에서만 이루어짐
+- B-Tree : 각 노드에 데이터가 저장된다.
+  - 각 노드에서 key와 data 모두 들어갈 수 있고, data는 disk block으로 포인터가 될 수 있다.
+- B+ Tree : index 노드와 leaf 노드로 분리되어 저장된다.
+  - 각 노드에서 key만 들어간다. 따라서 data는 leaf 노드에만 존재한다.
+  - add, delete 연산 모두 leaf 노드에서만 이루어진다.
+  - 또한, leaf 노드는 서로 연결되어 있어서 임의 접근이나 순차 접근 모두 성능이 우수하다.
+  - key의 중복이 일어남
 
 <br>
 
