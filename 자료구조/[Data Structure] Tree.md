@@ -35,6 +35,12 @@
 - 루트에서 어떤 노드로 가는 경로는 유일하다.
 
 
+**순회 방법**
+
+1. 중위 순회(In-order Traversal) : left-root-right
+2. 전위 순회(Pre-order Traversal) : root-left-right
+3. 후위 순회(Post-order Traversal) : left-right-root
+4. 레벨 순서 순회(Level-order Traversal) : 노드를 레벨 순서로 방문 (BFS와 동일해 큐로 구현 가능)
 
 ### [트리의 구성 요소]
 

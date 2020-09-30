@@ -1,8 +1,22 @@
 # study_cs
-양질의 자료를 제공해주신 [출처 사이트들](https://github.com/Tao-Kim/study_cs#%EC%B6%9C%EC%B2%98-%EC%82%AC%EC%9D%B4%ED%8A%B8)에서 모은 자료집입니다.
+양질의 자료를 제공해주신 [출처 사이트들](https://github.com/Tao-Kim/study_cs#%EC%B6%9C%EC%B2%98-%EC%82%AC%EC%9D%B4%ED%8A%B8)에서 모아 정리한 자료집입니다.
 
 <br>
 
+## 목차
+* [**컴퓨터 구조**](https://github.com/Tao-Kim/study_cs/blob/master/README.md#%EC%BB%B4%ED%93%A8%ED%84%B0-%EA%B5%AC%EC%A1%B0)
+* [**운영체제**](https://github.com/Tao-Kim/study_cs/blob/master/README.md#%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C)
+* [**데이터베이스**](https://github.com/Tao-Kim/study_cs/blob/master/README.md#%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4)
+* [**자료구조**](https://github.com/Tao-Kim/study_cs/blob/master/README.md#%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0)
+* [**알고리즘**]
+* [**네트워크**]
+* [**소프트웨어 공학**]
+* [**디자인 패턴**]
+* [**자바**]
+* [**안드로이드**]
+
+
+----
 ### 컴퓨터 구조
 * [**컴퓨터의 구성**](https://github.com/Tao-Kim/study_cs/blob/master/%EC%BB%B4%ED%93%A8%ED%84%B0%EA%B5%AC%EC%A1%B0/1.%EC%BB%B4%ED%93%A8%ED%84%B0%EC%9D%98%20%EA%B5%AC%EC%84%B1.md)
 * [고정 소수점 & 부동 소수점](https://github.com/Tao-Kim/study_cs/blob/master/%EC%BB%B4%ED%93%A8%ED%84%B0%EA%B5%AC%EC%A1%B0/%EA%B3%A0%EC%A0%95%20%EC%86%8C%EC%88%98%EC%A0%90%20%26%20%EB%B6%80%EB%8F%99%20%EC%86%8C%EC%88%98%EC%A0%90.md)
