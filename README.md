@@ -8,7 +8,7 @@ CS 및 개발공부를 위해 양질의 자료를 제공해주신 [**출처 사�
 * [**운영체제**](https://github.com/Tao-Kim/study_cs/blob/master/README.md#%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C)
 * [**데이터베이스**](https://github.com/Tao-Kim/study_cs/blob/master/README.md#%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4)
 * [**자료구조**](https://github.com/Tao-Kim/study_cs/blob/master/README.md#%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0)
-* [**알고리즘**]
+* [**알고리즘**](https://github.com/Tao-Kim/study_cs/blob/master/README.md#%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98)
 * [**네트워크**]
 * [**소프트웨어 공학**]
 * [**디자인 패턴**]
@@ -68,6 +68,26 @@ CS 및 개발공부를 위해 양질의 자료를 제공해주신 [**출처 사�
 <br>
 
 ## 알고리즘
+
+* [**정렬_Sort 정리**](https://github.com/Tao-Kim/study_cs/blob/master/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/%EC%A0%95%EB%A0%AC.md)  
+* [분할정복법_Divide & Conquer - (tistory) 창굴이님](https://kimch3617.tistory.com/entry/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-%EB%B6%84%ED%95%A0%EC%A0%95%EB%B3%B5%EB%B2%95-Divide-and-Conquer)  
+* [탐욕법_Greedy Alogorithm - (tistory) 집밖은 위험해 OTL](https://throwexception.tistory.com/769)
+* [**동적계획법_Dynamic Programming**](https://github.com/Tao-Kim/study_cs/blob/master/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/%EB%8F%99%EC%A0%81%20%EA%B3%84%ED%9A%8D%EB%B2%95%20(Dynamic%20Programming).md)
+* [**깊이우선탐색_DFS & 너비우선탐색_BFS**](https://github.com/Tao-Kim/study_cs/blob/master/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/BFS%20%26%20DFS.md)
+* [되추적_Backtracking - (tistory) 뚜벅이강군님](https://idea-sketch.tistory.com/29)
+* [분기한정법_Branch & Bound - (tistory) 사용자 무슨 닉네임 할까님](https://hcr3066.tistory.com/29)
+* [**이분 탐색(Binary Search)**](https://github.com/Tao-Kim/study_cs/blob/master/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/%EC%9D%B4%EB%B6%84%20%ED%83%90%EC%83%89(Binary%20Search).md)
+* [최단 경로 알고리즘 - (naver blog) 456님](https://blog.naver.com/PostView.nhn?blogId=hands731&logNo=221813151730)
+* [최소비용신장트리 알고리즘 - (velog) fldfls님](https://velog.io/@fldfls/%EC%B5%9C%EC%86%8C-%EC%8B%A0%EC%9E%A5-%ED%8A%B8%EB%A6%AC-MST-%ED%81%AC%EB%A3%A8%EC%8A%A4%EC%B9%BC-%ED%94%84%EB%A6%BC-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98)
+* [위상 정렬 알고리즘 - (naver blog) 안경잡이개발자님](https://m.blog.naver.com/ndb796/221236874984)
+* [순열과 조합 알고리즘](https://github.com/Tao-Kim/study_cs/blob/master/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/%EC%88%9C%EC%97%B4%EA%B3%BC%20%EC%A1%B0%ED%95%A9.md)
+* [투포인터 알고리즘](https://github.com/Tao-Kim/study_cs/blob/master/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/%ED%88%AC%ED%8F%AC%EC%9D%B8%ED%84%B0%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98.md)
+* [해시 테이블 구현](https://github.com/Tao-Kim/study_cs/blob/master/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/Hash%20Table%20%EA%B5%AC%ED%98%84%ED%95%98%EA%B8%B0.md)
+* [최대공약수와 최소공배수 알고리즘](https://github.com/Tao-Kim/study_cs/blob/master/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/%EC%B5%9C%EB%8C%80%EA%B3%B5%EC%95%BD%EC%88%98%20%26%20%EC%B5%9C%EC%86%8C%EA%B3%B5%EB%B0%B0%EC%88%98.md)
+* [비트마스크](https://github.com/Tao-Kim/study_cs/blob/master/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/%EB%B9%84%ED%8A%B8%EB%A7%88%EC%8A%A4%ED%81%AC(BitMask).md)
+* [최장 증가 수열(LIS)](https://github.com/Tao-Kim/study_cs/blob/master/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/LIS%20(Longest%20Increasing%20Sequence).md)
+* [최소 공통 조상(LCA)](https://github.com/Tao-Kim/study_cs/blob/master/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/LCA(Lowest%20Common%20Ancestor).md)
+* [누적합 - Codility_](https://codility.com/media/train/3-PrefixSums.pdf)
 <br>
 
 ## 네트워크
