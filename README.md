@@ -8,7 +8,7 @@ CS 및 개발공부를 위해 양질의 자료를 제공해주신 [**출처 사�
 * [**운영체제**](https://github.com/Tao-Kim/study_cs/blob/master/README.md#%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C)
 * [**데이터베이스**](https://github.com/Tao-Kim/study_cs/blob/master/README.md#%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4)
 * [**자료구조**](https://github.com/Tao-Kim/study_cs/blob/master/README.md#%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0)
-* [**알고리즘**]
+* [**알고리즘**](https://github.com/Tao-Kim/study_cs/blob/master/README.md#%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98)
 * [**네트워크**]
 * [**소프트웨어 공학**]
 * [**디자인 패턴**]
@@ -68,8 +68,9 @@ CS 및 개발공부를 위해 양질의 자료를 제공해주신 [**출처 사�
 <br>
 
 ## 알고리즘
-* [**정렬_Sort 정리**](https://github.com/Tao-Kim/study_cs/blob/master/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/%EC%A0%95%EB%A0%AC.md)
-* [분할정복법_Divide & Conquer - (tistory) 창굴이님](https://kimch3617.tistory.com/entry/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-%EB%B6%84%ED%95%A0%EC%A0%95%EB%B3%B5%EB%B2%95-Divide-and-Conquer)
+
+* [**정렬_Sort 정리**](https://github.com/Tao-Kim/study_cs/blob/master/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/%EC%A0%95%EB%A0%AC.md)  
+* [분할정복법_Divide & Conquer - (tistory) 창굴이님](https://kimch3617.tistory.com/entry/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-%EB%B6%84%ED%95%A0%EC%A0%95%EB%B3%B5%EB%B2%95-Divide-and-Conquer)  
 * [탐욕법_Greedy Alogorithm - (tistory) 집밖은 위험해 OTL](https://throwexception.tistory.com/769)
 * [**동적계획법_Dynamic Programming**](https://github.com/Tao-Kim/study_cs/blob/master/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/%EB%8F%99%EC%A0%81%20%EA%B3%84%ED%9A%8D%EB%B2%95%20(Dynamic%20Programming).md)
 * [**깊이우선탐색_DFS & 너비우선탐색_BFS**](https://github.com/Tao-Kim/study_cs/blob/master/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/BFS%20%26%20DFS.md)
@@ -87,7 +88,6 @@ CS 및 개발공부를 위해 양질의 자료를 제공해주신 [**출처 사�
 * [최장 증가 수열(LIS)](https://github.com/Tao-Kim/study_cs/blob/master/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/LIS%20(Longest%20Increasing%20Sequence).md)
 * [최소 공통 조상(LCA)](https://github.com/Tao-Kim/study_cs/blob/master/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/LCA(Lowest%20Common%20Ancestor).md)
 * [누적합 - Codility_](https://codility.com/media/train/3-PrefixSums.pdf)
-
 <br>
 
 ## 네트워크
