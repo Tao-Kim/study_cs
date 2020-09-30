@@ -44,9 +44,10 @@
 * [**선형 자료구조**](https://github.com/Tao-Kim/study_cs/blob/master/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0/%EC%84%A0%ED%98%95%20%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0.md)
 * [**TREE**](https://github.com/Tao-Kim/study_cs/blob/master/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0/%5BData%20Structure%5D%20Tree.md)
 * [**HEAP**](https://github.com/Tao-Kim/study_cs/blob/master/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0/%5BData%20Structure%5D%20Heap.md)
-* [균형 이진 탐색 트리]
 * [B 트리 & B+ 트리](https://github.com/Tao-Kim/study_cs/blob/master/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0/B%20Tree%20%26%20B%2B%20Tree.md)
 * [Trie 트라이](https://github.com/Tao-Kim/study_cs/blob/master/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0/Trie(%ED%8A%B8%EB%9D%BC%EC%9D%B4).md)
+* [AVL Tree - (velog) soonbee님](https://velog.io/@soonbee/AVL-Tree%EB%A5%BC-%EC%95%8C%EC%95%84%EB%B3%B4%EC%9E%90)
+* [RedBlack Tree - Nesoy Blog](https://nesoy.github.io/articles/2018-08/Algorithm-RedblackTree)
 * [**HASH**](https://github.com/Tao-Kim/study_cs/blob/master/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0/%5BData%20Structure%5D%20Hash(%ED%95%B4%EC%8B%9C).md)
 <br>
 
