@@ -116,13 +116,30 @@ CS 및 개발공부를 위해 양질의 자료를 제공해주신 [**출처 사�
 <br>
 
 ## 디자인 패턴 (작업중)
-* [디자인패턴 개요](https://github.com/Tao-Kim/study_cs/blob/master/%EB%94%94%EC%9E%90%EC%9D%B8%ED%8C%A8%ED%84%B4/%5BDesign%20Pattern%5D%20Overview.md)
-* [어댑터 패턴](https://github.com/Tao-Kim/study_cs/blob/master/%EB%94%94%EC%9E%90%EC%9D%B8%ED%8C%A8%ED%84%B4/Adapter%20Pattern.md)
-* [싱글톤 패턴](https://github.com/Tao-Kim/study_cs/blob/master/%EB%94%94%EC%9E%90%EC%9D%B8%ED%8C%A8%ED%84%B4/Singleton%20Pattern.md)
-* [템플릿 패턴](https://github.com/Tao-Kim/study_cs/blob/master/%EB%94%94%EC%9E%90%EC%9D%B8%ED%8C%A8%ED%84%B4/Design%20Pattern_Template%20Method.md)
-* [팩토리 메소드 패턴](https://github.com/Tao-Kim/study_cs/blob/master/%EB%94%94%EC%9E%90%EC%9D%B8%ED%8C%A8%ED%84%B4/Design%20Pattern_Factory%20Method.md)
-* [옵저버 패턴](https://github.com/Tao-Kim/study_cs/blob/master/%EB%94%94%EC%9E%90%EC%9D%B8%ED%8C%A8%ED%84%B4/Observer%20pattern.md)
-* [스트라테시 패턴](https://github.com/Tao-Kim/study_cs/blob/master/%EB%94%94%EC%9E%90%EC%9D%B8%ED%8C%A8%ED%84%B4/Strategy%20Pattern.md)
+* [**디자인패턴 개요**](https://github.com/Tao-Kim/study_cs/blob/master/%EB%94%94%EC%9E%90%EC%9D%B8%ED%8C%A8%ED%84%B4/%5BDesign%20Pattern%5D%20Overview.md)
+* [(생성) 추상 팩토리 패턴]
+* [(생성) 빌더 패턴]
+* [**(생성) 팩토리 메소드 패턴**](https://github.com/Tao-Kim/study_cs/blob/master/%EB%94%94%EC%9E%90%EC%9D%B8%ED%8C%A8%ED%84%B4/Design%20Pattern_Factory%20Method.md)
+* [(생성) 프로토타입 패턴]
+* [**(생성) 싱글톤 패턴**](https://github.com/Tao-Kim/study_cs/blob/master/%EB%94%94%EC%9E%90%EC%9D%B8%ED%8C%A8%ED%84%B4/Singleton%20Pattern.md)
+* [**(구조) 어댑터 패턴**](https://github.com/Tao-Kim/study_cs/blob/master/%EB%94%94%EC%9E%90%EC%9D%B8%ED%8C%A8%ED%84%B4/Adapter%20Pattern.md)
+* [(구조) 브릿지 패턴]
+* [(구조) 컴포지트 패턴]
+* [(구조) 데코레이터 패턴]
+* [(구조) 퍼사드 패턴]
+* [(구조) 플라이웨이트 패턴]
+* [(구조) 프록시 패턴]
+* [**(행위) 템플릿 메소드 패턴**](https://github.com/Tao-Kim/study_cs/blob/master/%EB%94%94%EC%9E%90%EC%9D%B8%ED%8C%A8%ED%84%B4/Design%20Pattern_Template%20Method.md)
+* [**(행위) 옵저버 패턴**](https://github.com/Tao-Kim/study_cs/blob/master/%EB%94%94%EC%9E%90%EC%9D%B8%ED%8C%A8%ED%84%B4/Observer%20pattern.md)
+* [**(행위) 스트라테시 패턴**](https://github.com/Tao-Kim/study_cs/blob/master/%EB%94%94%EC%9E%90%EC%9D%B8%ED%8C%A8%ED%84%B4/Strategy%20Pattern.md)
+* [(행위) 책임연쇄 패턴]
+* [(행위) 커맨드 패턴]
+* [(행위) 인터프리터 패턴]
+* [(행위) 반복자 패턴]
+* [(행위) 중재자 패턴]
+* [(행위) 메멘토 패턴]
+* [(행위) 상태 패턴]
+* [(행위) 방문자 패턴]
 <br>
 
 ## 자바
