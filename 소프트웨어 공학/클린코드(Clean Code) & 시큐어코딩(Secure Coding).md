@@ -1,8 +1,10 @@
-## 클린코드(Clean Code) & 시큐어코딩(Secure Coding)
+## 클린코드(Clean Code) & 리팩토링 & 시큐어코딩(Secure Coding)
 
 <br>
 
-#### 전문가들이 표현한 '클린코드'
+## 클린코드
+
+### 전문가들이 표현한 '클린코드'
 
 >`한 가지를 제대로 한다.`
 >
@@ -16,15 +18,21 @@
 
 <br>
 
-#### 클린코드란?
+### 클린코드란?
 
 코드를 작성하는 의도와 목적이 명확하며, 다른 사람이 쉽게 읽을 수 있어야 함
 
-> 즉, 가독성이 좋아야 한다.
+> 즉, 가독성이 좋아야 한다.  
+> 가독성을 높이려면 다음과 같이 구현해야 한다.
+> - 네이밍이 잘 되어야 함
+> - 오류가 없어야 함
+> - 중복이 없어야 함
+> - 의존성을 최대한 줄여야 함
+> - 클래스 혹은 메소드가 한가지 일만 처리해야 함
 
 <br>
 
-##### 가독성을 높인다는 것은?
+### 가독성을 높인다는 것은?
 
 다른 사람이 코드를 봐도, 자유롭게 수정이 가능하고 버그를 찾고 변경된 내용이 어떻게 상호작용하는지 이해하는 시간을 최소화 시키는 것...
 
@@ -184,7 +192,9 @@ var vote_changed = function (old_vote, new_vote) {
 
 <br>
 
-#### 코드리뷰 & 리팩토링
+## 리팩토링
+
+### 코드리뷰 & 리팩토링
 
 > 레거시 코드(테스트가 불가능하거나 어려운 코드)를 클린 코드로 만드는 방법
 
@@ -194,13 +204,13 @@ var vote_changed = function (old_vote, new_vote) {
 
 <br>
 
-##### 코드 인스펙션(code inspection)
+### 코드 인스펙션(code inspection)
 
 > 작성한 개발 소스 코드를 분석하여 개발 표준에 위배되엇거나 잘못 작성된 부분을 수정하는 작업
 
 <br>
 
-##### 절차 과정
+### 절차 과정
 
 1. Planning : 계획 수립
 2. Overview : 교육과 역할 정의
@@ -211,13 +221,13 @@ var vote_changed = function (old_vote, new_vote) {
 
 <br>
 
-#### 리팩토링
+### 리팩토링
 
 > 냄새나는 코드를 점진적으로 반복 수행되는 과정을 통해 코드를 조금씩 개선해나가는 것
 
 <br>
 
-##### 리팩토링 대상
+### 리팩토링 대상
 
 - 메소드 정리 : 그룹으로 묶을 수 있는 코드, 수식을 메소드로 변경함
 - 객체 간의 기능 이동 : 메소드 기능에 따른 위치 변경, 클래스 기능을 명확히 구분
@@ -228,7 +238,7 @@ var vote_changed = function (old_vote, new_vote) {
 
 <br>
 
-##### 리팩토링 진행 방법
+### 리팩토링 진행 방법
 
 아키텍처 관점 시작 → 디자인 패턴 적용 → 단계적으로 하위 기능에 대한 변경으로 진행
 
@@ -238,15 +248,165 @@ var vote_changed = function (old_vote, new_vote) {
 
 <br>
 
+### 리팩토링의 목적
+
+리팩토링의 목적은, 소프트웨어를 더 이해하기 쉽고 수정하기 쉽게 만드는 것
+
+```
+리팩토링은 성능을 최적화시키는 것이 아니다.
+코드를 신속하게 개발할 수 있게 만들어주고, 코드 품질을 좋게 만들어준다.
+```
+
+이해하기 쉽고, 수정하기 쉬우면? → 개발 속도가 증가!
+
+<br>
+
+### 리팩토링이 필요한 상황
+
+>  소프트웨어에 새로운 기능을 추가해야 할 때
+
+```
+명심해야할 것은, 우선 코드가 제대로 돌아가야 한다는 것. 리팩토링은 우선적으로 해야 할 일이 아님을 명심하자
+```
+
+<br>
+
+객체지향 특징을 살리려면, switch-case 문을 적게 사용해야 함
+
+(switch문은 오버라이드로 다 바꿔버리자)
+
+<br>
 
 
-### 시큐어 코딩
+
+
+
+
+
+
+
+
+
+### 리팩토링 예제
+
+<br>
+
+1번
+
+```java
+// 수정 전
+public int getFoodPrice(int arg1, int arg2) {
+    return arg1 * arg2;
+}
+```
+
+함수명 직관적 수정, 변수명을 의미에 맞게 수정
+
+```java
+// 수정 후
+public int getTotalFoodPrice(int price, int quantity) {
+    return price * quantity;
+}
+```
+
+<br>
+
+2번
+
+```java
+// 수정 전
+public int getTotalPrice(int price, int quantity, double discount) {
+    return (int) ((price * quantity) * (price * quantity) * (discount /100));
+}
+```
+
+`price * quantity`가 중복된다. 따로 변수로 추출하자
+
+할인율을 계산하는 부분을 메소드로 따로 추출하자
+
+할인율 함수 같은 경우는 항상 일정하므로 외부에서 건드리지 못하도록 private 선언
+
+```java
+// 수정 후
+public int getTotalFoodPrice(int price, int quantity, double discount) {
+	int totalPriceQuantity = price * quantity;
+    return (int) (totalPriceQuantity - getDiscountPrice(discount, totalPriceQuantity))
+}
+
+private double getDiscountPrice(double discount, int totalPriceQuantity) {
+    return totalPriceQuantity * (discount / 100);
+}
+```
+
+<br>
+
+이 코드를 한번 더 리팩토링 해보면?
+
+<br>
+
+
+
+
+
+3번
+
+```java
+// 수정 전
+public int getTotalFoodPrice(int price, int quantity, double discount) {
+	
+    int totalPriceQuantity = price * quantity;
+    return (int) (totalPriceQuantity - getDiscountPrice(discount, totalPriceQuantity))
+}
+
+private double getDiscountPrice(double discount, int totalPriceQuantity) {
+    return totalPriceQuantity * (discount / 100);
+}
+```
+
+<br>
+
+totalPriceQuantity를 getter 메소드로 추출이 가능하다.
+
+지불한다는 의미를 주기 위해 메소드 명을 수정해주자
+
+<br>
+
+```java
+// 수정 후
+public int getFoodPriceToPay(int price, int quantity, double discount) {
+    
+    int totalPriceQuantity = getTotalPriceQuantity(price, quantity);
+    return (int) (totalPriceQuantity - getDiscountPrice(discount, totalPriceQuantity));
+}
+
+private double getDiscountPrice(double discount, int totalPriceQuantity) {
+    return totalPriceQuantity * (discount / 100);
+}
+
+private int getTotalPriceQuantity(int price, int quantity) {
+    return price * quantity;
+}
+```
+
+<br>
+
+<br>
+
+##### 클린코드와 리팩토링의 차이?
+
+리팩토링이 더 큰 의미를 가진 것 같다. 클린 코드는 단순히 가독성을 높이기 위한 작업으로 이루어져 있다면, 리팩토링은 클린 코드를 포함한 유지보수를 위한 코드 개선이 이루어진다.
+
+클린코드와 같은 부분은 설계부터 잘 이루어져 있는 것이 중요하고, 리팩토링은 결과물이 나온 이후 수정이나 추가 작업이 진행될 때 개선해나가는 것이 올바른 방향이다.
+
+
+
+## 시큐어 코딩
 
 > 안전한 소프트웨어를 개발하기 위해, 소스코드 등에 존재할 수 있는 잠재적인 보안약점을 제거하는 것
 
 <br>
 
-##### 보안 약점을 노려 발생하는 사고사례들
+### 보안 약점을 노려 발생하는 사고사례들
 
 - SQL 인젝션 취약점으로 개인유출 사고 발생
 - URL 파라미터 조작 개인정보 노출
@@ -254,7 +414,7 @@ var vote_changed = function (old_vote, new_vote) {
 
 <br>
 
-##### SQL 인젝션 예시
+### SQL 인젝션 예시
 
 - 안전하지 않은 코드
 
