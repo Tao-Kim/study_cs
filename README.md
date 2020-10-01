@@ -125,12 +125,22 @@ CS 및 개발공부를 위해 양질의 자료를 제공해주신 [**출처 사�
 * [브라우저 동작 방법 -1](https://github.com/Tao-Kim/study_cs/blob/master/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC/%EC%A3%BC%EC%86%8C%EC%B0%BD%EC%97%90%20naver.com%EC%9D%84%20%EC%B9%98%EB%A9%B4%20%EC%9D%BC%EC%96%B4%EB%82%98%EB%8A%94%20%EC%9D%BC.md)
 * [브라우저 동작 방법 -2](https://github.com/Tao-Kim/study_cs/blob/master/%EC%9B%B9/%EB%B8%8C%EB%9D%BC%EC%9A%B0%EC%A0%80%20%EB%8F%99%EC%9E%91%20%EB%B0%A9%EB%B2%95.md)
 * [쿠키와 세션](https://github.com/Tao-Kim/study_cs/blob/master/%EC%9B%B9/Cookie%20%26%20Session.md)
+* [Authentication 방법 - (restcase) Guy Levin님](https://blog.restcase.com/4-most-used-rest-api-authentication-methods/)
 * [HTTP 상태코드](https://github.com/Tao-Kim/study_cs/blob/master/%EC%9B%B9/HTTP%20status%20code.md)
 * [UI & UX](https://github.com/Tao-Kim/study_cs/blob/master/%EC%9B%B9/UI%EC%99%80%20UX.md)
 * [Logging Level](https://github.com/Tao-Kim/study_cs/blob/master/%EC%9B%B9/Logging%20Level.md)
+* [네이티브 앱 & 웹 앱 & 하이브리드 앱](https://github.com/Tao-Kim/study_cs/blob/master/%EC%9B%B9/%EB%84%A4%EC%9D%B4%ED%8B%B0%EB%B8%8C%20%EC%95%B1%20%26%20%EC%9B%B9%20%EC%95%B1%20%26%20%ED%95%98%EC%9D%B4%EB%B8%8C%EB%A6%AC%EB%93%9C%20%EC%95%B1.md)
+* [PWA](https://github.com/Tao-Kim/study_cs/blob/master/%EC%9B%B9/PWA%20(Progressive%20Web%20App).md)
 <br>
 
 ## 소프트웨어 공학
+* [클린코드 & 리팩토링 & 시큐어코드](https://github.com/Tao-Kim/study_cs/blob/master/%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4%20%EA%B3%B5%ED%95%99/%ED%81%B4%EB%A6%B0%EC%BD%94%EB%93%9C(Clean%20Code)%20%26%20%EC%8B%9C%ED%81%90%EC%96%B4%EC%BD%94%EB%94%A9(Secure%20Coding).md)
+* [TDD](https://github.com/Tao-Kim/study_cs/blob/master/%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4%20%EA%B3%B5%ED%95%99/TDD(Test%20Driven%20Development).md)
+* [애자일](https://github.com/Tao-Kim/study_cs/blob/master/%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4%20%EA%B3%B5%ED%95%99/%EC%95%A0%EC%9E%90%EC%9D%BC(Agile).md)
+* [**객체지향 프로그래밍**](https://github.com/Tao-Kim/study_cs/blob/master/%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4%20%EA%B3%B5%ED%95%99/Object-Oriented%20Programming.md)
+* [함수형 프로그래밍](https://github.com/Tao-Kim/study_cs/blob/master/%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4%20%EA%B3%B5%ED%95%99/Fuctional%20Programming.md)
+* [데브옵스](https://github.com/Tao-Kim/study_cs/blob/master/%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4%20%EA%B3%B5%ED%95%99/%EB%8D%B0%EB%B8%8C%EC%98%B5%EC%8A%A4(DevOps).md)
+* [써드 파티](https://github.com/Tao-Kim/study_cs/blob/master/%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4%20%EA%B3%B5%ED%95%99/%EC%8D%A8%EB%93%9C%ED%8C%8C%ED%8B%B0(3rd%20party)%EB%9E%80.md)
 <br>
 
 ## 디자인 패턴
