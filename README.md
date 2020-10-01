@@ -10,9 +10,9 @@ CS 및 개발공부를 위해 양질의 자료를 제공해주신 [**출처 사�
 * [**자료구조**](https://github.com/Tao-Kim/study_cs/blob/master/README.md#%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0)
 * [**알고리즘**](https://github.com/Tao-Kim/study_cs/blob/master/README.md#%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98)
 * [**네트워크**](https://github.com/Tao-Kim/study_cs#%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC)
-* [**WEB**](https://github.com/Tao-Kim/study_cs#web-%EC%9E%91%EC%97%85%EC%A4%91)
+* [**WEB**](https://github.com/Tao-Kim/study_cs#web)
 * [**소프트웨어 공학**](https://github.com/Tao-Kim/study_cs#%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4-%EA%B3%B5%ED%95%99)
-* [**디자인 패턴**](https://github.com/Tao-Kim/study_cs#%EB%94%94%EC%9E%90%EC%9D%B8-%ED%8C%A8%ED%84%B4-%EC%9E%91%EC%97%85%EC%A4%91)
+* [**디자인 패턴**](https://github.com/Tao-Kim/study_cs#%EB%94%94%EC%9E%90%EC%9D%B8-%ED%8C%A8%ED%84%B4)
 * [**자바**](https://github.com/Tao-Kim/study_cs#%EC%9E%90%EB%B0%94)
 * [**안드로이드**](https://github.com/Tao-Kim/study_cs#%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C)
 
@@ -52,12 +52,11 @@ CS 및 개발공부를 위해 양질의 자료를 제공해주신 [**출처 사�
 * [**데이터베이스 개요**](https://github.com/Tao-Kim/study_cs/blob/master/%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4/%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4.md)
 * [인덱스](https://github.com/Tao-Kim/study_cs/blob/master/%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4/%5BDB%5D%20Index.md)
 * [조인](https://github.com/Tao-Kim/study_cs/blob/master/%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4/SQL%20-%20Join.md)
-* [정규화]
+* [정규화 - (tistory) DEEPPLAY님](https://3months.tistory.com/193)
 * [SQL vs NoSQL](https://github.com/Tao-Kim/study_cs/blob/master/%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4/SQL%20vs%20NoSQL.md)
 * [레디스 REDIS - (tistory) sungho88님](https://codingmania.tistory.com/18)
 * [SQL Injection](https://github.com/Tao-Kim/study_cs/blob/master/%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4/SQL%20-%20Injection.md)
-* [프로시저]
-* [트리거]
+* [프로시저, 함수, 트리거 - (tistory) palpit님](https://palpit.tistory.com/140)
 * [mysql 기본 명령어 & sql문 - (egloos) 황제펭귄님](http://egloos.zum.com/darkit/v/211771)
 <br>
 
@@ -95,17 +94,33 @@ CS 및 개발공부를 위해 양질의 자료를 제공해주신 [**출처 사�
 * [누적합 - Codility_](https://codility.com/media/train/3-PrefixSums.pdf)
 <br>
 
-## 네트워크 (작업중)
-* [OSI 7계층](https://github.com/Tao-Kim/study_cs/blob/master/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC/OSI%207%20%EA%B3%84%EC%B8%B5.md)
-* [TCP](https://github.com/Tao-Kim/study_cs/blob/master/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC/TCP.md)
-* [UDP](https://github.com/Tao-Kim/study_cs/blob/master/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC/UDP.md)
-* [TCP 연결 해제 과정](https://github.com/Tao-Kim/study_cs/blob/master/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC/3%20way%20handshake.md)
+## 네트워크
+* [**Network1 - (github) jihyuno301/tech-interview**](https://github.com/jihyuno301/tech-interview/blob/master/Network/Part1.md)
+  * [OSI 7계층](https://github.com/jihyuno301/tech-interview/blob/master/Network/Part1.md#osi-7%EA%B3%84%EC%B8%B5)
+  * [TCP/IP의 개념](https://github.com/jihyuno301/tech-interview/blob/master/Network/Part1.md#tcpip%EC%9D%98-%EA%B0%9C%EB%85%90)
+  * [TCP UDP](https://github.com/jihyuno301/tech-interview/blob/master/Network/Part1.md#tcp%EC%99%80-udp)
+  * [TCP 흐름제어 혼잡제어](https://github.com/jihyuno301/tech-interview/blob/master/Network/Part1.md#tcp%ED%9D%90%EB%A6%84%EC%A0%9C%EC%96%B4-%ED%98%BC%EC%9E%A1%EC%A0%9C%EC%96%B4)
+  * [TCP와 UDP의 헤더 분석](https://github.com/jihyuno301/tech-interview/blob/master/Network/Part1.md#tcp%EC%99%80-udp%EC%9D%98-%ED%97%A4%EB%8D%94-%EB%B6%84%EC%84%9D)
+  * [TCP의 3-way-handshake, 4-way-handshake](https://github.com/jihyuno301/tech-interview/blob/master/Network/Part1.md#tcp%EC%9D%98-3-way-handshake%EC%99%80-4-way-handshake)
+* [**Network2 - (github) jihyuno301/tech-interview**](https://github.com/jihyuno301/tech-interview/blob/master/Network/Part2.md)
+  * [HTTP와 HTTPS](https://github.com/jihyuno301/tech-interview/blob/master/Network/Part2.md#http%EC%99%80-https)
+  * [HTTP 요청/응답 헤더](https://github.com/jihyuno301/tech-interview/blob/master/Network/Part2.md#http-%EC%9A%94%EC%B2%AD-%EC%9D%91%EB%8B%B5-%ED%97%A4%EB%8D%94)
+  * [CORS란](https://github.com/jihyuno301/tech-interview/blob/master/Network/Part2.md#cors%EB%9E%80)
+  * [GET & POST](https://github.com/jihyuno301/tech-interview/blob/master/Network/Part2.md#get-%EB%A9%94%EC%84%9C%EB%93%9C%EC%99%80-post-%EB%A9%94%EC%84%9C%EB%93%9C)
+  * [쿠키와 세션](https://github.com/jihyuno301/tech-interview/blob/master/Network/Part2.md#%EC%BF%A0%ED%82%A4%EC%99%80-%EC%84%B8%EC%85%98)
+ * [**Network3 - (github) jihyuno301/tech-interview**](https://github.com/jihyuno301/tech-interview/blob/master/Network/Part3.md)
+   * [DNS란](https://github.com/jihyuno301/tech-interview/blob/master/Network/Part3.md#DNS%EB%9E%80)
+   * [REST와 RESTful의 개념](https://github.com/jihyuno301/tech-interview/blob/master/Network/Part3.md#REST%EC%99%80-RESTful)
+   * [소켓(Socket)이란](https://github.com/jihyuno301/tech-interview/blob/master/Network/Part3.md#Socket%EC%9D%B4%EB%9E%80)
+   * [Socket.io와 WebSocket의 차이](https://github.com/jihyuno301/tech-interview/blob/master/Network/Part3.md#%EC%96%91%EB%B0%A9%ED%96%A5-%ED%86%B5%EC%8B%A0)
+   * [Frame, Packet, Segment, Datagram](https://github.com/jihyuno301/tech-interview/blob/master/Network/Part3.md#Frame-Packet-Segment-Datagram)
+
 * [공개키 & 대칭키](https://github.com/Tao-Kim/study_cs/blob/master/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC/%EA%B3%B5%EA%B0%9C%ED%82%A4%20%26%20%EB%8C%80%EC%B9%AD%ED%82%A4.md)
-* [HTTP와 HTTPS 차이](https://github.com/Tao-Kim/study_cs/blob/master/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC/HTTP%2C%20HTTPS.md)
+* [HTTPS 통신 흐름](https://github.com/Tao-Kim/study_cs/blob/master/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC/HTTPS%20%ED%86%B5%EC%8B%A0%ED%9D%90%EB%A6%84.md)
 * [로드 밸런싱](https://github.com/Tao-Kim/study_cs/blob/master/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC/%EB%A1%9C%EB%93%9C%20%EB%B0%B8%EB%9F%B0%EC%8B%B1(Load%20Balancing).md)
 <br>
 
-## WEB (작업중)
+## WEB
 * [Web Server와 WAS의 차이](https://github.com/Tao-Kim/study_cs/blob/master/%EC%9B%B9/Web%20Server%EC%99%80%20WAS%EC%9D%98%20%EC%B0%A8%EC%9D%B4.md)
 * [브라우저 동작 방법 -1](https://github.com/Tao-Kim/study_cs/blob/master/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC/%EC%A3%BC%EC%86%8C%EC%B0%BD%EC%97%90%20naver.com%EC%9D%84%20%EC%B9%98%EB%A9%B4%20%EC%9D%BC%EC%96%B4%EB%82%98%EB%8A%94%20%EC%9D%BC.md)
 * [브라우저 동작 방법 -2](https://github.com/Tao-Kim/study_cs/blob/master/%EC%9B%B9/%EB%B8%8C%EB%9D%BC%EC%9A%B0%EC%A0%80%20%EB%8F%99%EC%9E%91%20%EB%B0%A9%EB%B2%95.md)
@@ -118,31 +133,31 @@ CS 및 개발공부를 위해 양질의 자료를 제공해주신 [**출처 사�
 ## 소프트웨어 공학
 <br>
 
-## 디자인 패턴 (작업중)
+## 디자인 패턴
 * [**디자인패턴 개요**](https://github.com/Tao-Kim/study_cs/blob/master/%EB%94%94%EC%9E%90%EC%9D%B8%ED%8C%A8%ED%84%B4/%5BDesign%20Pattern%5D%20Overview.md)
-* [**(생성) 추상 팩토리 패턴**]
-* [(생성) 빌더 패턴]
+* [**(생성) 추상 팩토리 패턴 - (tistory) victorylee님**](https://victorydntmd.tistory.com/300)
+* [**(생성) 빌더 패턴 - (tistory) demonic_님**](https://lemontia.tistory.com/483)
 * [**(생성) 팩토리 메소드 패턴**](https://github.com/Tao-Kim/study_cs/blob/master/%EB%94%94%EC%9E%90%EC%9D%B8%ED%8C%A8%ED%84%B4/Design%20Pattern_Factory%20Method.md)
-* [(생성) 프로토타입 패턴]
+* [(생성) 프로토타입 패턴 - astrod](http://astrod.github.io/design_pattern/2017/04/26/%ED%94%84%EB%A1%9C%ED%86%A0%ED%83%80%EC%9E%85-%EB%94%94%EC%9E%90%EC%9D%B8-%ED%8C%A8%ED%84%B4/)
 * [**(생성) 싱글톤 패턴**](https://github.com/Tao-Kim/study_cs/blob/master/%EB%94%94%EC%9E%90%EC%9D%B8%ED%8C%A8%ED%84%B4/Singleton%20Pattern.md)
 * [**(구조) 어댑터 패턴**](https://github.com/Tao-Kim/study_cs/blob/master/%EB%94%94%EC%9E%90%EC%9D%B8%ED%8C%A8%ED%84%B4/Adapter%20Pattern.md)
-* [(구조) 브릿지 패턴]
-* [**(구조) 컴포지트 패턴**]
-* [**(구조) 데코레이터 패턴**]
-* [(구조) 퍼사드 패턴]
-* [(구조) 플라이웨이트 패턴]
-* [**(구조) 프록시 패턴**]
+* [(구조) 브릿지 패턴 - (tistory) Lkt_Programmer님](https://lktprogrammer.tistory.com/35)
+* [**(구조) 컴포지트 패턴 - (tistory) Lkt_Programmer님**](https://lktprogrammer.tistory.com/49?category=672216)
+* [**(구조) 데코레이터 패턴 - (tistory) victorylee님**](https://victorydntmd.tistory.com/297?category=719467)
+* [(구조) 퍼사드 패턴 - (tistory) Lkt_Programmer님](https://lktprogrammer.tistory.com/42?category=672216)
+* [(구조) 플라이웨이트 패턴 - joosjuliet](https://joosjuliet.github.io/flyweight_pattern/)
+* [**(구조) 프록시 패턴 - (tistory) Lkt_Programmer님**](https://lktprogrammer.tistory.com/34?category=672216)
 * [**(행위) 템플릿 메소드 패턴**](https://github.com/Tao-Kim/study_cs/blob/master/%EB%94%94%EC%9E%90%EC%9D%B8%ED%8C%A8%ED%84%B4/Design%20Pattern_Template%20Method.md)
 * [**(행위) 옵저버 패턴**](https://github.com/Tao-Kim/study_cs/blob/master/%EB%94%94%EC%9E%90%EC%9D%B8%ED%8C%A8%ED%84%B4/Observer%20pattern.md)
 * [**(행위) 스트라테시 패턴**](https://github.com/Tao-Kim/study_cs/blob/master/%EB%94%94%EC%9E%90%EC%9D%B8%ED%8C%A8%ED%84%B4/Strategy%20Pattern.md)
-* [(행위) 책임연쇄 패턴]
-* [**(행위) 커맨드 패턴**]
-* [(행위) 인터프리터 패턴]
-* [(행위) 반복자 패턴]
-* [(행위) 중재자 패턴]
-* [(행위) 메멘토 패턴]
-* [**(행위) 상태 패턴**]
-* [(행위) 방문자 패턴]
+* [(행위) 책임연쇄 패턴 - (tistory) Lkt_Programmer님](https://lktprogrammer.tistory.com/45?category=672216)
+* [**(행위) 커맨드 패턴 - (tistory) victorylee**](https://victorydntmd.tistory.com/295?category=719467)
+* [(행위) 인터프리터 패턴 - (Baeldung) Denis Szczukocki님](https://www.baeldung.com/java-interpreter-pattern)
+* [(행위) 반복자 패턴 - (tistory) Lkt_Programmer님](https://lktprogrammer.tistory.com/40?category=672216)
+* [(행위) 중재자 패턴 - (tistory) Lkt_Programmer님](https://lktprogrammer.tistory.com/58?category=672216)
+* [(행위) 메멘토 패턴 - (tistory) Lkt_Programmer님](https://lktprogrammer.tistory.com/65?category=672216)
+* [**(행위) 상태 패턴 - (tistory) victorylee님**](https://victorydntmd.tistory.com/294?category=719467)
+* [(행위) 방문자 패턴 - (tistory) Lkt_Programmer님](https://lktprogrammer.tistory.com/58?category=672216)
 <br>
 
 ## 자바
@@ -157,3 +172,4 @@ CS 및 개발공부를 위해 양질의 자료를 제공해주신 [**출처 사�
 ## 출처 사이트
 * [**(github) WooVictory/Ready-For-Tech-Interview**](https://github.com/WooVictory/Ready-For-Tech-Interview)
 * [**(github) gyoogle/tech-interview-for-developer**](https://github.com/gyoogle/tech-interview-for-developer)
+* [**(github) jihyuno301/tech-interview**](https://github.com/jihyuno301/tech-interview/blob/master/Network/Part2.md)
