@@ -10,9 +10,9 @@ CS 및 개발공부를 위해 양질의 자료를 제공해주신 [**출처 사�
 * [**자료구조**](https://github.com/Tao-Kim/study_cs/blob/master/README.md#%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0)
 * [**알고리즘**](https://github.com/Tao-Kim/study_cs/blob/master/README.md#%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98)
 * [**네트워크**](https://github.com/Tao-Kim/study_cs#%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC)
-* [**WEB**](https://github.com/Tao-Kim/study_cs#web-%EC%9E%91%EC%97%85%EC%A4%91)
+* [**WEB**](https://github.com/Tao-Kim/study_cs#web)
 * [**소프트웨어 공학**](https://github.com/Tao-Kim/study_cs#%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4-%EA%B3%B5%ED%95%99)
-* [**디자인 패턴**](https://github.com/Tao-Kim/study_cs#%EB%94%94%EC%9E%90%EC%9D%B8-%ED%8C%A8%ED%84%B4-%EC%9E%91%EC%97%85%EC%A4%91)
+* [**디자인 패턴**](https://github.com/Tao-Kim/study_cs#%EB%94%94%EC%9E%90%EC%9D%B8-%ED%8C%A8%ED%84%B4)
 * [**자바**](https://github.com/Tao-Kim/study_cs#%EC%9E%90%EB%B0%94)
 * [**안드로이드**](https://github.com/Tao-Kim/study_cs#%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C)
 
