@@ -95,13 +95,28 @@ CS 및 개발공부를 위해 양질의 자료를 제공해주신 [**출처 사�
 * [누적합 - Codility_](https://codility.com/media/train/3-PrefixSums.pdf)
 <br>
 
-## 네트워크 (작업중)
-* [OSI 7계층](https://github.com/Tao-Kim/study_cs/blob/master/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC/OSI%207%20%EA%B3%84%EC%B8%B5.md)
-* [TCP](https://github.com/Tao-Kim/study_cs/blob/master/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC/TCP.md)
-* [UDP](https://github.com/Tao-Kim/study_cs/blob/master/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC/UDP.md)
-* [TCP 연결 해제 과정](https://github.com/Tao-Kim/study_cs/blob/master/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC/3%20way%20handshake.md)
+## 네트워
+* [**Network1 - (github) jihyuno301/tech-interview**](https://github.com/jihyuno301/tech-interview/blob/master/Network/Part1.md)
+  * [OSI 7계층](https://github.com/jihyuno301/tech-interview/blob/master/Network/Part1.md#osi-7%EA%B3%84%EC%B8%B5)
+  * [TCP/IP의 개념](https://github.com/jihyuno301/tech-interview/blob/master/Network/Part1.md#tcpip%EC%9D%98-%EA%B0%9C%EB%85%90)
+  * [TCP UDP](https://github.com/jihyuno301/tech-interview/blob/master/Network/Part1.md#tcp%EC%99%80-udp)
+  * [TCP 흐름제어 혼잡제어](https://github.com/jihyuno301/tech-interview/blob/master/Network/Part1.md#tcp%ED%9D%90%EB%A6%84%EC%A0%9C%EC%96%B4-%ED%98%BC%EC%9E%A1%EC%A0%9C%EC%96%B4)
+  * [TCP와 UDP의 헤더 분석](https://github.com/jihyuno301/tech-interview/blob/master/Network/Part1.md#tcp%EC%99%80-udp%EC%9D%98-%ED%97%A4%EB%8D%94-%EB%B6%84%EC%84%9D)
+  * [TCP의 3-way-handshake, 4-way-handshake](https://github.com/jihyuno301/tech-interview/blob/master/Network/Part1.md#tcp%EC%9D%98-3-way-handshake%EC%99%80-4-way-handshake)
+* [**Network2 - (github) jihyuno301/tech-interview**](https://github.com/jihyuno301/tech-interview/blob/master/Network/Part2.md)
+  * [HTTP와 HTTPS](https://github.com/jihyuno301/tech-interview/blob/master/Network/Part2.md#http%EC%99%80-https)
+  * [HTTP 요청/응답 헤더](https://github.com/jihyuno301/tech-interview/blob/master/Network/Part2.md#http-%EC%9A%94%EC%B2%AD-%EC%9D%91%EB%8B%B5-%ED%97%A4%EB%8D%94)
+  * [CORS란](https://github.com/jihyuno301/tech-interview/blob/master/Network/Part2.md#cors%EB%9E%80)
+  * [GET & POST](https://github.com/jihyuno301/tech-interview/blob/master/Network/Part2.md#get-%EB%A9%94%EC%84%9C%EB%93%9C%EC%99%80-post-%EB%A9%94%EC%84%9C%EB%93%9C)
+  * [쿠키와 세션](https://github.com/jihyuno301/tech-interview/blob/master/Network/Part2.md#%EC%BF%A0%ED%82%A4%EC%99%80-%EC%84%B8%EC%85%98)
+ * [**Network3 - (github) jihyuno301/tech-interview**](https://github.com/jihyuno301/tech-interview/blob/master/Network/Part3.md)
+  * [DNS란](https://github.com/jihyuno301/tech-interview/blob/master/Network/Part3.md#DNS%EB%9E%80)
+  * [REST와 RESTful의 개념](https://github.com/jihyuno301/tech-interview/blob/master/Network/Part3.md#REST%EC%99%80-RESTful)
+  * [소켓(Socket)이란](https://github.com/jihyuno301/tech-interview/blob/master/Network/Part3.md#Socket%EC%9D%B4%EB%9E%80)
+  * [Socket.io와 WebSocket의 차이](https://github.com/jihyuno301/tech-interview/blob/master/Network/Part3.md#%EC%96%91%EB%B0%A9%ED%96%A5-%ED%86%B5%EC%8B%A0)
+  * [https://github.com/jihyuno301/tech-interview/blob/master/Network/Part3.md#Frame-Packet-Segment-Datagram)
 * [공개키 & 대칭키](https://github.com/Tao-Kim/study_cs/blob/master/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC/%EA%B3%B5%EA%B0%9C%ED%82%A4%20%26%20%EB%8C%80%EC%B9%AD%ED%82%A4.md)
-* [HTTP와 HTTPS 차이](https://github.com/Tao-Kim/study_cs/blob/master/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC/HTTP%2C%20HTTPS.md)
+* [HTTPS 통신 흐름](https://github.com/Tao-Kim/study_cs/blob/master/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC/HTTPS%20%ED%86%B5%EC%8B%A0%ED%9D%90%EB%A6%84.md)
 * [로드 밸런싱](https://github.com/Tao-Kim/study_cs/blob/master/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC/%EB%A1%9C%EB%93%9C%20%EB%B0%B8%EB%9F%B0%EC%8B%B1(Load%20Balancing).md)
 <br>
 
@@ -157,3 +172,4 @@ CS 및 개발공부를 위해 양질의 자료를 제공해주신 [**출처 사�
 ## 출처 사이트
 * [**(github) WooVictory/Ready-For-Tech-Interview**](https://github.com/WooVictory/Ready-For-Tech-Interview)
 * [**(github) gyoogle/tech-interview-for-developer**](https://github.com/gyoogle/tech-interview-for-developer)
+* [**(github) jihyuno301/tech-interview**](https://github.com/jihyuno301/tech-interview/blob/master/Network/Part2.md)
