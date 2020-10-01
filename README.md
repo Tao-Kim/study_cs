@@ -52,12 +52,11 @@ CS 및 개발공부를 위해 양질의 자료를 제공해주신 [**출처 사�
 * [**데이터베이스 개요**](https://github.com/Tao-Kim/study_cs/blob/master/%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4/%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4.md)
 * [인덱스](https://github.com/Tao-Kim/study_cs/blob/master/%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4/%5BDB%5D%20Index.md)
 * [조인](https://github.com/Tao-Kim/study_cs/blob/master/%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4/SQL%20-%20Join.md)
-* [정규화]
+* [정규화 - (tistory) DEEPPLAY님](https://3months.tistory.com/193)
 * [SQL vs NoSQL](https://github.com/Tao-Kim/study_cs/blob/master/%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4/SQL%20vs%20NoSQL.md)
 * [레디스 REDIS - (tistory) sungho88님](https://codingmania.tistory.com/18)
 * [SQL Injection](https://github.com/Tao-Kim/study_cs/blob/master/%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4/SQL%20-%20Injection.md)
-* [프로시저]
-* [트리거]
+* [프로시저, 함수, 트리거 - (tistory) palpit님](https://palpit.tistory.com/140)
 * [mysql 기본 명령어 & sql문 - (egloos) 황제펭귄님](http://egloos.zum.com/darkit/v/211771)
 <br>
 
@@ -136,29 +135,29 @@ CS 및 개발공부를 위해 양질의 자료를 제공해주신 [**출처 사�
 
 ## 디자인 패턴
 * [**디자인패턴 개요**](https://github.com/Tao-Kim/study_cs/blob/master/%EB%94%94%EC%9E%90%EC%9D%B8%ED%8C%A8%ED%84%B4/%5BDesign%20Pattern%5D%20Overview.md)
-* [**(생성) 추상 팩토리 패턴**]
-* [(생성) 빌더 패턴]
+* [**(생성) 추상 팩토리 패턴 - (tistory) victorylee님**](https://victorydntmd.tistory.com/300)
+* [**(생성) 빌더 패턴 - (tistory) demonic_님**](https://lemontia.tistory.com/483)
 * [**(생성) 팩토리 메소드 패턴**](https://github.com/Tao-Kim/study_cs/blob/master/%EB%94%94%EC%9E%90%EC%9D%B8%ED%8C%A8%ED%84%B4/Design%20Pattern_Factory%20Method.md)
-* [(생성) 프로토타입 패턴]
+* [(생성) 프로토타입 패턴 - astrod](http://astrod.github.io/design_pattern/2017/04/26/%ED%94%84%EB%A1%9C%ED%86%A0%ED%83%80%EC%9E%85-%EB%94%94%EC%9E%90%EC%9D%B8-%ED%8C%A8%ED%84%B4/)
 * [**(생성) 싱글톤 패턴**](https://github.com/Tao-Kim/study_cs/blob/master/%EB%94%94%EC%9E%90%EC%9D%B8%ED%8C%A8%ED%84%B4/Singleton%20Pattern.md)
 * [**(구조) 어댑터 패턴**](https://github.com/Tao-Kim/study_cs/blob/master/%EB%94%94%EC%9E%90%EC%9D%B8%ED%8C%A8%ED%84%B4/Adapter%20Pattern.md)
-* [(구조) 브릿지 패턴]
-* [**(구조) 컴포지트 패턴**]
-* [**(구조) 데코레이터 패턴**]
-* [(구조) 퍼사드 패턴]
-* [(구조) 플라이웨이트 패턴]
-* [**(구조) 프록시 패턴**]
+* [(구조) 브릿지 패턴 - (tistory) Lkt_Programmer님](https://lktprogrammer.tistory.com/35)
+* [**(구조) 컴포지트 패턴 - (tistory) Lkt_Programmer님**](https://lktprogrammer.tistory.com/49?category=672216)
+* [**(구조) 데코레이터 패턴 - (tistory) victorylee님**](https://victorydntmd.tistory.com/297?category=719467)
+* [(구조) 퍼사드 패턴 - (tistory) Lkt_Programmer님](https://lktprogrammer.tistory.com/42?category=672216)
+* [(구조) 플라이웨이트 패턴 - joosjuliet](https://joosjuliet.github.io/flyweight_pattern/)
+* [**(구조) 프록시 패턴 - (tistory) Lkt_Programmer님**](https://lktprogrammer.tistory.com/34?category=672216)
 * [**(행위) 템플릿 메소드 패턴**](https://github.com/Tao-Kim/study_cs/blob/master/%EB%94%94%EC%9E%90%EC%9D%B8%ED%8C%A8%ED%84%B4/Design%20Pattern_Template%20Method.md)
 * [**(행위) 옵저버 패턴**](https://github.com/Tao-Kim/study_cs/blob/master/%EB%94%94%EC%9E%90%EC%9D%B8%ED%8C%A8%ED%84%B4/Observer%20pattern.md)
 * [**(행위) 스트라테시 패턴**](https://github.com/Tao-Kim/study_cs/blob/master/%EB%94%94%EC%9E%90%EC%9D%B8%ED%8C%A8%ED%84%B4/Strategy%20Pattern.md)
-* [(행위) 책임연쇄 패턴]
-* [**(행위) 커맨드 패턴**]
-* [(행위) 인터프리터 패턴]
-* [(행위) 반복자 패턴]
-* [(행위) 중재자 패턴]
-* [(행위) 메멘토 패턴]
-* [**(행위) 상태 패턴**]
-* [(행위) 방문자 패턴]
+* [(행위) 책임연쇄 패턴 - (tistory) Lkt_Programmer님](https://lktprogrammer.tistory.com/45?category=672216)
+* [**(행위) 커맨드 패턴 - (tistory) victorylee**](https://victorydntmd.tistory.com/295?category=719467)
+* [(행위) 인터프리터 패턴 - (Baeldung) Denis Szczukocki님](https://www.baeldung.com/java-interpreter-pattern)
+* [(행위) 반복자 패턴 - (tistory) Lkt_Programmer님](https://lktprogrammer.tistory.com/40?category=672216)
+* [(행위) 중재자 패턴 - (tistory) Lkt_Programmer님](https://lktprogrammer.tistory.com/58?category=672216)
+* [(행위) 메멘토 패턴 - (tistory) Lkt_Programmer님](https://lktprogrammer.tistory.com/65?category=672216)
+* [**(행위) 상태 패턴 - (tistory) victorylee님**](https://victorydntmd.tistory.com/294?category=719467)
+* [(행위) 방문자 패턴 - (tistory) Lkt_Programmer님](https://lktprogrammer.tistory.com/58?category=672216)
 <br>
 
 ## 자바
