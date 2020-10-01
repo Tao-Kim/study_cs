@@ -95,7 +95,7 @@ CS 및 개발공부를 위해 양질의 자료를 제공해주신 [**출처 사�
 * [누적합 - Codility_](https://codility.com/media/train/3-PrefixSums.pdf)
 <br>
 
-## 네트워
+## 네트워크
 * [**Network1 - (github) jihyuno301/tech-interview**](https://github.com/jihyuno301/tech-interview/blob/master/Network/Part1.md)
   * [OSI 7계층](https://github.com/jihyuno301/tech-interview/blob/master/Network/Part1.md#osi-7%EA%B3%84%EC%B8%B5)
   * [TCP/IP의 개념](https://github.com/jihyuno301/tech-interview/blob/master/Network/Part1.md#tcpip%EC%9D%98-%EA%B0%9C%EB%85%90)
@@ -120,7 +120,7 @@ CS 및 개발공부를 위해 양질의 자료를 제공해주신 [**출처 사�
 * [로드 밸런싱](https://github.com/Tao-Kim/study_cs/blob/master/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC/%EB%A1%9C%EB%93%9C%20%EB%B0%B8%EB%9F%B0%EC%8B%B1(Load%20Balancing).md)
 <br>
 
-## WEB (작업중)
+## WEB
 * [Web Server와 WAS의 차이](https://github.com/Tao-Kim/study_cs/blob/master/%EC%9B%B9/Web%20Server%EC%99%80%20WAS%EC%9D%98%20%EC%B0%A8%EC%9D%B4.md)
 * [브라우저 동작 방법 -1](https://github.com/Tao-Kim/study_cs/blob/master/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC/%EC%A3%BC%EC%86%8C%EC%B0%BD%EC%97%90%20naver.com%EC%9D%84%20%EC%B9%98%EB%A9%B4%20%EC%9D%BC%EC%96%B4%EB%82%98%EB%8A%94%20%EC%9D%BC.md)
 * [브라우저 동작 방법 -2](https://github.com/Tao-Kim/study_cs/blob/master/%EC%9B%B9/%EB%B8%8C%EB%9D%BC%EC%9A%B0%EC%A0%80%20%EB%8F%99%EC%9E%91%20%EB%B0%A9%EB%B2%95.md)
@@ -133,7 +133,7 @@ CS 및 개발공부를 위해 양질의 자료를 제공해주신 [**출처 사�
 ## 소프트웨어 공학
 <br>
 
-## 디자인 패턴 (작업중)
+## 디자인 패턴
 * [**디자인패턴 개요**](https://github.com/Tao-Kim/study_cs/blob/master/%EB%94%94%EC%9E%90%EC%9D%B8%ED%8C%A8%ED%84%B4/%5BDesign%20Pattern%5D%20Overview.md)
 * [**(생성) 추상 팩토리 패턴**]
 * [(생성) 빌더 패턴]
