@@ -159,7 +159,7 @@ CS 및 개발공부를 위해 양질의 자료를 제공해주신 [**출처 사�
 * [**(구조) 프록시 패턴 - (tistory) Lkt_Programmer님**](https://lktprogrammer.tistory.com/34?category=672216)
 * [**(행위) 템플릿 메소드 패턴**](https://github.com/Tao-Kim/study_cs/blob/master/%EB%94%94%EC%9E%90%EC%9D%B8%ED%8C%A8%ED%84%B4/Design%20Pattern_Template%20Method.md)
 * [**(행위) 옵저버 패턴**](https://github.com/Tao-Kim/study_cs/blob/master/%EB%94%94%EC%9E%90%EC%9D%B8%ED%8C%A8%ED%84%B4/Observer%20pattern.md)
-* [**(행위) 스트라테시 패턴**](https://github.com/Tao-Kim/study_cs/blob/master/%EB%94%94%EC%9E%90%EC%9D%B8%ED%8C%A8%ED%84%B4/Strategy%20Pattern.md)
+* [**(행위) 스트라테 패턴**](https://github.com/Tao-Kim/study_cs/blob/master/%EB%94%94%EC%9E%90%EC%9D%B8%ED%8C%A8%ED%84%B4/Strategy%20Pattern.md)
 * [(행위) 책임연쇄 패턴 - (tistory) Lkt_Programmer님](https://lktprogrammer.tistory.com/45?category=672216)
 * [**(행위) 커맨드 패턴 - (tistory) victorylee**](https://victorydntmd.tistory.com/295?category=719467)
 * [(행위) 인터프리터 패턴 - (Baeldung) Denis Szczukocki님](https://www.baeldung.com/java-interpreter-pattern)
