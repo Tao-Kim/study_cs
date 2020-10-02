@@ -18,7 +18,7 @@
 * [**자바**](https://github.com/Tao-Kim/study_cs#%EC%9E%90%EB%B0%94)
 * [**안드로이드**](https://github.com/Tao-Kim/study_cs#%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C)
 * [**리눅스**]
-* [****]
+* [**기타**]
 <br>
 <br>
 <br>
