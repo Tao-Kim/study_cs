@@ -84,7 +84,7 @@
 * [되추적_Backtracking - (tistory) 뚜벅이강군님](https://idea-sketch.tistory.com/29)
 * [분기한정법_Branch & Bound - (tistory) 사용자 무슨 닉네임 할까님](https://hcr3066.tistory.com/29)
 * [**이분 탐색(Binary Search)**](https://github.com/Tao-Kim/study_cs/blob/master/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/%EC%9D%B4%EB%B6%84%20%ED%83%90%EC%83%89(Binary%20Search).md)
-* [최단 경로 알고리즘 - (naver blog) 456님](https://blog.naver.com/PostView.nhn?blogId=hands731&logNo=221813151730)
+* [최단 경로 알고리즘 - (tistory) hyp3rflow님](https://hyp3rflow.tistory.com/17)
 * [최소비용신장트리 알고리즘 - (velog) fldfls님](https://velog.io/@fldfls/%EC%B5%9C%EC%86%8C-%EC%8B%A0%EC%9E%A5-%ED%8A%B8%EB%A6%AC-MST-%ED%81%AC%EB%A3%A8%EC%8A%A4%EC%B9%BC-%ED%94%84%EB%A6%BC-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98)
 * [위상 정렬 알고리즘 - (naver blog) 안경잡이개발자님](https://m.blog.naver.com/ndb796/221236874984)
 * [순열과 조합 알고리즘](https://github.com/Tao-Kim/study_cs/blob/master/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/%EC%88%9C%EC%97%B4%EA%B3%BC%20%EC%A1%B0%ED%95%A9.md)
