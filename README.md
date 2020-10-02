@@ -31,7 +31,7 @@ CS 및 개발공부를 위해 양질의 자료를 제공해주신 [**출처 사�
 
 ## 운영체제
 * [운영체제 개요](https://github.com/Tao-Kim/study_cs/blob/master/%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C/1.%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C%20%EA%B0%9C%EC%9A%94.md)
-* [운영체제 유형 - (naverBlog) 마조리카님](https://m.blog.naver.com/jk130694/220689338984)
+* [운영체제 유형 - (tistory) 행운의다섯님](https://jiminon5.tistory.com/11)
 * [시스템 콜](https://github.com/Tao-Kim/study_cs/blob/master/%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C/%EC%8B%9C%EC%8A%A4%ED%85%9C%20%EC%BD%9C(System%20Call).md)
 * [인터럽트](https://github.com/Tao-Kim/study_cs/blob/master/%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C/%EC%9D%B8%ED%84%B0%EB%9F%BD%ED%8A%B8(Interrupt).md)
 * [동기와 비동기](https://github.com/Tao-Kim/study_cs/blob/master/%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C/%EB%8F%99%EA%B8%B0%EC%99%80%20%EB%B9%84%EB%8F%99%EA%B8%B0.md)
