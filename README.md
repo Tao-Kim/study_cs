@@ -1,8 +1,6 @@
 # study_cs
 CS 및 개발공부를 위해 양질의 자료를 제공해주신 [**출처 사이트들**](https://github.com/Tao-Kim/study_cs#%EC%B6%9C%EC%B2%98-%EC%82%AC%EC%9D%B4%ED%8A%B8)에서 모아 정리한 자료집입니다.
 
-수정해야 할 내용이나 추가할 내용이 있으시면 [Issues](https://github.com/Tao-Kim/study_cs/issues) or [Pull requests](https://github.com/Tao-Kim/study_cs/pulls) 부탁드립니다.:bow:   
-감사합니다:blush:
 
 <br>
 <br>
