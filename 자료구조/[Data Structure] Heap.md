@@ -75,7 +75,7 @@ void insert_max_heap(int x){
   maxHeap[++heapSize] = x;
   // 힙 크기를 하나 증가시키고, 마지막 노드에 x를 삽입.
   
-  for(int i=heapSize; i>1; i--){
+  for(int i=heapSize; i>1; i/=2){
     // 마지막 노드가 자신의 부모 노드보다 크면 swap
     if(maxHeap[i / 2] < maxHeap[i]){
       swap(i / 2, i);
