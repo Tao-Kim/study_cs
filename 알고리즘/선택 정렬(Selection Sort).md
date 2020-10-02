@@ -110,3 +110,4 @@ n(n-1)/2가 된다.
 
 - 시간 복잡도가 O(N^2)이므로 비효율적이다.
 - **불안정 정렬(Unstable Sort)이다.**
+        * [선택정렬이 불안정 정렬인 이유 - stackoverflow](https://stackoverflow.com/questions/20761396/why-selection-sort-can-be-stable-or-unstable) 
