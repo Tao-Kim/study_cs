@@ -121,6 +121,16 @@
 * [공개키 & 대칭키](https://github.com/Tao-Kim/study_cs/blob/master/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC/%EA%B3%B5%EA%B0%9C%ED%82%A4%20%26%20%EB%8C%80%EC%B9%AD%ED%82%A4.md)
 * [HTTPS 통신 흐름](https://github.com/Tao-Kim/study_cs/blob/master/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC/HTTPS%20%ED%86%B5%EC%8B%A0%ED%9D%90%EB%A6%84.md)
 * [로드 밸런싱](https://github.com/Tao-Kim/study_cs/blob/master/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC/%EB%A1%9C%EB%93%9C%20%EB%B0%B8%EB%9F%B0%EC%8B%B1(Load%20Balancing).md)
+* [URI VS URL - stackoverflow](https://stackoverflow.com/questions/4913343/what-is-the-difference-between-uri-url-and-urn)
+* [HTTP VS Socket - qastack](https://qastack.kr/programming/15108139/difference-between-socket-programming-and-http-programming)
+* [HTTP의 진화 - MDN](https://developer.mozilla.org/ko/docs/Web/HTTP/Basics_of_HTTP/Evolution_of_HTTP)
+* [HTTP/1.1 Keep-Alive - goodGid's Dev Blog](https://goodgid.github.io/HTTP-Keep-Alive/)
+* [HTTP Method - restapitutorial](https://www.restapitutorial.com/lessons/httpmethods.html)
+* [SOAP vs REST - wishket blog](http://blog.wishket.com/soap-api-vs-rest-api-%EB%91%90-%EB%B0%A9%EC%8B%9D%EC%9D%98-%EA%B0%80%EC%9E%A5-%ED%81%B0-%EC%B0%A8%EC%9D%B4%EC%A0%90%EC%9D%80/)
+* [Authentication 방법 - (restcase) Guy Levin님](https://blog.restcase.com/4-most-used-rest-api-authentication-methods/)
+* [HTTP 상태코드](https://github.com/Tao-Kim/study_cs/blob/master/%EC%9B%B9/HTTP%20status%20code.md)
+* [Websocket & socket.io - (naver d2) 심상민님](https://d2.naver.com/helloworld/1336)
+* [Websocket 자세한 설명 - tutorialpoint](https://www.tutorialspoint.com/websockets/websockets_quick_guide.htm) 
 <br>
 
 ## WEB
@@ -128,8 +138,6 @@
 * [브라우저 동작 방법 -1](https://github.com/Tao-Kim/study_cs/blob/master/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC/%EC%A3%BC%EC%86%8C%EC%B0%BD%EC%97%90%20naver.com%EC%9D%84%20%EC%B9%98%EB%A9%B4%20%EC%9D%BC%EC%96%B4%EB%82%98%EB%8A%94%20%EC%9D%BC.md)
 * [브라우저 동작 방법 -2](https://github.com/Tao-Kim/study_cs/blob/master/%EC%9B%B9/%EB%B8%8C%EB%9D%BC%EC%9A%B0%EC%A0%80%20%EB%8F%99%EC%9E%91%20%EB%B0%A9%EB%B2%95.md)
 * [쿠키와 세션](https://github.com/Tao-Kim/study_cs/blob/master/%EC%9B%B9/Cookie%20%26%20Session.md)
-* [Authentication 방법 - (restcase) Guy Levin님](https://blog.restcase.com/4-most-used-rest-api-authentication-methods/)
-* [HTTP 상태코드](https://github.com/Tao-Kim/study_cs/blob/master/%EC%9B%B9/HTTP%20status%20code.md)
 * [UI & UX](https://github.com/Tao-Kim/study_cs/blob/master/%EC%9B%B9/UI%EC%99%80%20UX.md)
 * [Logging Level](https://github.com/Tao-Kim/study_cs/blob/master/%EC%9B%B9/Logging%20Level.md)
 * [네이티브 앱 & 웹 앱 & 하이브리드 앱](https://github.com/Tao-Kim/study_cs/blob/master/%EC%9B%B9/%EB%84%A4%EC%9D%B4%ED%8B%B0%EB%B8%8C%20%EC%95%B1%20%26%20%EC%9B%B9%20%EC%95%B1%20%26%20%ED%95%98%EC%9D%B4%EB%B8%8C%EB%A6%AC%EB%93%9C%20%EC%95%B1.md)
