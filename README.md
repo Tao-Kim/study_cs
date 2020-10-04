@@ -23,7 +23,7 @@
 <br>
 <br>
 
-## 컴퓨터 구조
+## 컴퓨터 구조 <a href="#study_cs">:back:</a>
 * [**컴퓨터의 구성**](https://github.com/Tao-Kim/study_cs/blob/master/%EC%BB%B4%ED%93%A8%ED%84%B0%EA%B5%AC%EC%A1%B0/1.%EC%BB%B4%ED%93%A8%ED%84%B0%EC%9D%98%20%EA%B5%AC%EC%84%B1.md)
 * [고정 소수점 & 부동 소수점](https://github.com/Tao-Kim/study_cs/blob/master/%EC%BB%B4%ED%93%A8%ED%84%B0%EA%B5%AC%EC%A1%B0/%EA%B3%A0%EC%A0%95%20%EC%86%8C%EC%88%98%EC%A0%90%20%26%20%EB%B6%80%EB%8F%99%20%EC%86%8C%EC%88%98%EC%A0%90.md)
 * [패리티 비트 & 해밍 코드 - (naverBlog) 푸른하늘의해님](https://m.blog.naver.com/PostView.nhn?blogId=k97b1114&logNo=140158639535&proxyReferer=https:%2F%2Fwww.google.com%2F)
@@ -31,7 +31,7 @@
 * [ARM 프로세서](https://github.com/Tao-Kim/study_cs/blob/master/%EC%BB%B4%ED%93%A8%ED%84%B0%EA%B5%AC%EC%A1%B0/ARM%20%ED%94%84%EB%A1%9C%EC%84%B8%EC%84%9C.md)
 <br>
 
-## 운영체제
+## 운영체제 <a href="#study_cs">:back:</a>
 * [운영체제 개요](https://github.com/Tao-Kim/study_cs/blob/master/%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C/1.%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C%20%EA%B0%9C%EC%9A%94.md)
 * [운영체제 유형 - (tistory) 행운의다섯님](https://jiminon5.tistory.com/11)
 * [시스템 콜](https://github.com/Tao-Kim/study_cs/blob/master/%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C/%EC%8B%9C%EC%8A%A4%ED%85%9C%20%EC%BD%9C(System%20Call).md)
@@ -50,7 +50,7 @@
 * [**언어 번역 프로그램**](https://github.com/Tao-Kim/study_cs/blob/master/%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D%20%EC%96%B8%EC%96%B4%20%EB%B2%88%EC%97%AD.md)
 <br>
 
-## 데이터베이스
+## 데이터베이스 <a href="#study_cs">:back:</a>
 * [데이터베이스 기본 용어](https://github.com/Tao-Kim/study_cs/blob/master/%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4/%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4%20%EA%B8%B0%EB%B3%B8%20%EC%9A%A9%EC%96%B4.md)
 * [**데이터베이스 개요**](https://github.com/Tao-Kim/study_cs/blob/master/%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4/%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4.md)
 * [인덱스](https://github.com/Tao-Kim/study_cs/blob/master/%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4/%5BDB%5D%20Index.md)
@@ -63,7 +63,7 @@
 * [mysql 기본 명령어 & sql문 - (egloos) 황제펭귄님](http://egloos.zum.com/darkit/v/211771)
 <br>
 
-## 자료구조
+## 자료구조 <a href="#study_cs">:back:</a>
 * [**선형 자료구조**](https://github.com/Tao-Kim/study_cs/blob/master/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0/%EC%84%A0%ED%98%95%20%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0.md)
 * [**TREE**](https://github.com/Tao-Kim/study_cs/blob/master/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0/%5BData%20Structure%5D%20Tree.md)
 * [**HEAP**](https://github.com/Tao-Kim/study_cs/blob/master/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0/%5BData%20Structure%5D%20Heap.md)
@@ -74,8 +74,7 @@
 * [**HASH**](https://github.com/Tao-Kim/study_cs/blob/master/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0/%5BData%20Structure%5D%20Hash(%ED%95%B4%EC%8B%9C).md)
 <br>
 
-## 알고리즘
-
+## 알고리즘 <a href="#study_cs">:back:</a>
 * [**정렬_Sort 정리**](https://github.com/Tao-Kim/study_cs/blob/master/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/%EC%A0%95%EB%A0%AC.md)  
 * [분할정복법_Divide & Conquer - (tistory) 창굴이님](https://kimch3617.tistory.com/entry/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-%EB%B6%84%ED%95%A0%EC%A0%95%EB%B3%B5%EB%B2%95-Divide-and-Conquer)  
 * [탐욕법_Greedy Alogorithm - (tistory) 집밖은 위험해 OTL](https://throwexception.tistory.com/769)
@@ -97,7 +96,7 @@
 * [누적합 - Codility_](https://codility.com/media/train/3-PrefixSums.pdf)
 <br>
 
-## 네트워크
+## 네트워크 <a href="#study_cs">:back:</a>
 * [**Network1 - (github) jihyuno301/tech-interview**](https://github.com/jihyuno301/tech-interview/blob/master/Network/Part1.md)
   * [OSI 7계층](https://github.com/jihyuno301/tech-interview/blob/master/Network/Part1.md#osi-7%EA%B3%84%EC%B8%B5)
   * [TCP/IP의 개념](https://github.com/jihyuno301/tech-interview/blob/master/Network/Part1.md#tcpip%EC%9D%98-%EA%B0%9C%EB%85%90)
@@ -134,7 +133,7 @@
 
 <br>
 
-## WEB
+## WEB <a href="#study_cs">:back:</a>
 * [Web Server와 WAS의 차이](https://github.com/Tao-Kim/study_cs/blob/master/%EC%9B%B9/Web%20Server%EC%99%80%20WAS%EC%9D%98%20%EC%B0%A8%EC%9D%B4.md)
 * [브라우저 동작 방법 -1](https://github.com/Tao-Kim/study_cs/blob/master/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC/%EC%A3%BC%EC%86%8C%EC%B0%BD%EC%97%90%20naver.com%EC%9D%84%20%EC%B9%98%EB%A9%B4%20%EC%9D%BC%EC%96%B4%EB%82%98%EB%8A%94%20%EC%9D%BC.md)
 * [브라우저 동작 방법 -2](https://github.com/Tao-Kim/study_cs/blob/master/%EC%9B%B9/%EB%B8%8C%EB%9D%BC%EC%9A%B0%EC%A0%80%20%EB%8F%99%EC%9E%91%20%EB%B0%A9%EB%B2%95.md)
@@ -145,7 +144,7 @@
 * [PWA](https://github.com/Tao-Kim/study_cs/blob/master/%EC%9B%B9/PWA%20(Progressive%20Web%20App).md)
 <br>
 
-## 소프트웨어 공학
+## 소프트웨어 공학 <a href="#study_cs">:back:</a>
 * [클린코드 & 리팩토링 & 시큐어코드](https://github.com/Tao-Kim/study_cs/blob/master/%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4%20%EA%B3%B5%ED%95%99/%ED%81%B4%EB%A6%B0%EC%BD%94%EB%93%9C(Clean%20Code)%20%26%20%EC%8B%9C%ED%81%90%EC%96%B4%EC%BD%94%EB%94%A9(Secure%20Coding).md)
 * [TDD](https://github.com/Tao-Kim/study_cs/blob/master/%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4%20%EA%B3%B5%ED%95%99/TDD(Test%20Driven%20Development).md)
 * [애자일](https://github.com/Tao-Kim/study_cs/blob/master/%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4%20%EA%B3%B5%ED%95%99/%EC%95%A0%EC%9E%90%EC%9D%BC(Agile).md)
@@ -155,7 +154,7 @@
 * [써드 파티](https://github.com/Tao-Kim/study_cs/blob/master/%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4%20%EA%B3%B5%ED%95%99/%EC%8D%A8%EB%93%9C%ED%8C%8C%ED%8B%B0(3rd%20party)%EB%9E%80.md)
 <br>
 
-## 디자인 패턴
+## 디자인 패턴 <a href="#study_cs">:back:</a>
 * [**디자인패턴 개요**](https://github.com/Tao-Kim/study_cs/blob/master/%EB%94%94%EC%9E%90%EC%9D%B8%ED%8C%A8%ED%84%B4/%5BDesign%20Pattern%5D%20Overview.md)
 * [**(생성) 추상 팩토리 패턴 - (tistory) victorylee님**](https://victorydntmd.tistory.com/300)
 * [**(생성) 빌더 패턴 - (tistory) demonic_님**](https://lemontia.tistory.com/483)
@@ -182,7 +181,7 @@
 * [(행위) 방문자 패턴 - (tistory) Lkt_Programmer님](https://lktprogrammer.tistory.com/58?category=672216)
 <br>
 
-## 자바
+## 자바 <a href="#study_cs">:back:</a>
 * [**Java part1 - (github) jihyuno301/tech-interview**](https://github.com/jihyuno301/tech-interview/blob/master/Java/Part1.md#java-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D%EC%9D%B4%EB%9E%80)
   * [Java 프로그래밍이란](https://github.com/jihyuno301/tech-interview/blob/master/Java/Part1.md#java-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D%EC%9D%B4%EB%9E%80)
   * [Java SE와 Java EE 애플리케이션 차이](https://github.com/jihyuno301/tech-interview/blob/master/Java/Part1.md#java-se%EC%99%80-java-ee-%EC%95%A0%ED%94%8C%EB%A6%AC%EC%BC%80%EC%9D%B4%EC%85%98-%EC%B0%A8%EC%9D%B4)
@@ -224,14 +223,14 @@
 * [Java Reference & GC - (naver d2) 박세훈님](https://d2.naver.com/helloworld/329631)
 <br>
 
-## 안드로이드
+## 안드로이드 <a href="#study_cs">:back:</a>
 <br>
   
-## 리눅스
+## 리눅스 <a href="#study_cs">:back:</a>
 <br>
-<p align="right"><a href="#study_cs">[되돌아가기]</a></p>
 
-## 기타   
+
+## 기타 <a href="#study_cs">:back:</a>
 <br>
 
 <br>
