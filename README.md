@@ -130,6 +130,7 @@
 * [HTTP 상태코드](https://github.com/Tao-Kim/study_cs/blob/master/%EC%9B%B9/HTTP%20status%20code.md)
 * [Websocket & socket.io - (naver d2) 심상민님](https://d2.naver.com/helloworld/1336)
 * [Websocket 자세한 설명 - tutorialpoint](https://www.tutorialspoint.com/websockets/websockets_quick_guide.htm) 
+* [SSL, SSO, SSH - (tistory) no pain, no gain](https://animal-park.tistory.com/137)
 
 <br>
 
