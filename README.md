@@ -6,19 +6,19 @@
 <br>
 
 ## 목차
-* [**컴퓨터 구조**](https://github.com/Tao-Kim/study_cs/blob/master/README.md#%EC%BB%B4%ED%93%A8%ED%84%B0-%EA%B5%AC%EC%A1%B0)
-* [**운영체제**](https://github.com/Tao-Kim/study_cs/blob/master/README.md#%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C)
-* [**데이터베이스**](https://github.com/Tao-Kim/study_cs/blob/master/README.md#%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4)
-* [**자료구조**](https://github.com/Tao-Kim/study_cs/blob/master/README.md#%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0)
-* [**알고리즘**](https://github.com/Tao-Kim/study_cs/blob/master/README.md#%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98)
-* [**네트워크**](https://github.com/Tao-Kim/study_cs#%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC)
-* [**WEB**](https://github.com/Tao-Kim/study_cs#web)
-* [**소프트웨어 공학**](https://github.com/Tao-Kim/study_cs#%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4-%EA%B3%B5%ED%95%99)
-* [**디자인 패턴**](https://github.com/Tao-Kim/study_cs#%EB%94%94%EC%9E%90%EC%9D%B8-%ED%8C%A8%ED%84%B4)
-* [**자바**](https://github.com/Tao-Kim/study_cs#%EC%9E%90%EB%B0%94)
-* [**안드로이드**](https://github.com/Tao-Kim/study_cs#%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C)
-* [**리눅스**]
-* [**기타**]
+* [**컴퓨터 구조**](#%EC%BB%B4%ED%93%A8%ED%84%B0-%EA%B5%AC%EC%A1%B0-back)
+* [**운영체제**](https://github.com/Tao-Kim/study_cs/blob/master/README.md#%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C-back)
+* [**데이터베이스**](https://github.com/Tao-Kim/study_cs/blob/master/README.md#%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4-back)
+* [**자료구조**](https://github.com/Tao-Kim/study_cs/blob/master/README.md#%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0-back)
+* [**알고리즘**](https://github.com/Tao-Kim/study_cs/blob/master/README.md#%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-back)
+* [**네트워크**](https://github.com/Tao-Kim/study_cs/blob/master/README.md#%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC-back)
+* [**WEB**](https://github.com/Tao-Kim/study_cs/blob/master/README.md#web-back)
+* [**소프트웨어 공학**](https://github.com/Tao-Kim/study_cs/blob/master/README.md#%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4-%EA%B3%B5%ED%95%99-back)
+* [**디자인 패턴**](https://github.com/Tao-Kim/study_cs/blob/master/README.md#%EB%94%94%EC%9E%90%EC%9D%B8-%ED%8C%A8%ED%84%B4-back)
+* [**자바**](https://github.com/Tao-Kim/study_cs/blob/master/README.md#%EC%9E%90%EB%B0%94-back)
+* [**안드로이드**](https://github.com/Tao-Kim/study_cs/blob/master/README.md#%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C-back)
+* [**리눅스**](https://github.com/Tao-Kim/study_cs/blob/master/README.md#%EB%A6%AC%EB%88%85%EC%8A%A4-back)
+* [**기타**](https://github.com/Tao-Kim/study_cs/blob/master/README.md#%EA%B8%B0%ED%83%80-back)
 <br>
 <br>
 <br>
