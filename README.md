@@ -230,7 +230,7 @@
 ## 리눅스
 <br>
 
-## 기타
+## 기타   [되돌아가기](https://github.com/Tao-Kim/study_cs#study_cs)
 <br>
 
 <br>
