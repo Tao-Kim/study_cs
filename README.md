@@ -215,6 +215,11 @@
   * [동기화와 비동기화의 차이](https://github.com/jihyuno301/tech-interview/blob/master/Java/Part4.md#%EB%8F%99%EA%B8%B0%ED%99%94%EC%99%80-%EB%B9%84%EB%8F%99%EA%B8%B0%ED%99%94%EC%9D%98-%EC%B0%A8%EC%9D%B4)
   * [Java에서 '=='와 'equals()'의 차이](https://github.com/jihyuno301/tech-interview/blob/master/Java/Part4.md#java%EC%97%90%EC%84%9C-==%EC%99%80-equals()%EC%9D%98-%EC%B0%A8%EC%9D%B4)
   * [Java의 리플렉션(Reflaction)이란](https://github.com/jihyuno301/tech-interview/blob/master/Java/Part4.md#java%EC%9D%98-%EB%A6%AC%ED%94%8C%EB%A0%89%EC%85%98-%EC%9D%B4%EB%9E%80)
+* [자바 실행과정 - (tistory) 스터디룸](https://humahumahuma.tistory.com/150)
+* [자바 제네릭 - (tistory) 깡냉스님](https://cornswrold.tistory.com/180)
+* [자바 primitive type - (naver blog) 꼼지락](https://m.blog.naver.com/satyee/140127143696)
+* [Imuutable - (velog) conatuseus.log](https://velog.io/@conatuseus/Java-Immutable-Object%EB%B6%88%EB%B3%80%EA%B0%9D%EC%B2%B4)
+* [BigInteger, BigDecimal- hochulshin](http://hochulshin.com/java-big-number/)
 <br>
 
 ## 안드로이드
