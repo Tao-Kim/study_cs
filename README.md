@@ -220,6 +220,8 @@
 * [자바 primitive type - (naver blog) 꼼지락](https://m.blog.naver.com/satyee/140127143696)
 * [Imuutable - (velog) conatuseus.log](https://velog.io/@conatuseus/Java-Immutable-Object%EB%B6%88%EB%B3%80%EA%B0%9D%EC%B2%B4)
 * [BigInteger, BigDecimal- hochulshin](http://hochulshin.com/java-big-number/)
+* [가비지 컬렉션 - YABOONG](https://yaboong.github.io/java/2018/06/09/java-garbage-collection/)
+* [Java Reference & GC - (naver d2) 박세훈님](https://d2.naver.com/helloworld/329631)
 <br>
 
 ## 안드로이드
