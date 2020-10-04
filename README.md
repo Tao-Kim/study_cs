@@ -214,13 +214,18 @@
   * [동기화와 비동기화의 차이](https://github.com/jihyuno301/tech-interview/blob/master/Java/Part4.md#%EB%8F%99%EA%B8%B0%ED%99%94%EC%99%80-%EB%B9%84%EB%8F%99%EA%B8%B0%ED%99%94%EC%9D%98-%EC%B0%A8%EC%9D%B4)
   * [Java에서 '=='와 'equals()'의 차이](https://github.com/jihyuno301/tech-interview/blob/master/Java/Part4.md#java%EC%97%90%EC%84%9C-==%EC%99%80-equals()%EC%9D%98-%EC%B0%A8%EC%9D%B4)
   * [Java의 리플렉션(Reflaction)이란](https://github.com/jihyuno301/tech-interview/blob/master/Java/Part4.md#java%EC%9D%98-%EB%A6%AC%ED%94%8C%EB%A0%89%EC%85%98-%EC%9D%B4%EB%9E%80)
+* [자바 Casting](https://github.com/Tao-Kim/study_cs/blob/master/%EC%9E%90%EB%B0%94/%5Bjava%5D%20Casting(%EC%97%85%EC%BA%90%EC%8A%A4%ED%8C%85%20%26%20%EB%8B%A4%EC%9A%B4%EC%BA%90%EC%8A%A4%ED%8C%85).md)
+* [자바 Thread](https://github.com/Tao-Kim/study_cs/blob/master/%EC%9E%90%EB%B0%94/%5BJava%5D%20Java%EC%97%90%EC%84%9C%20Thread.md)
+* [자바 고유락](https://github.com/Tao-Kim/study_cs/blob/master/%EC%9E%90%EB%B0%94/%5BJava%5D%20Intrinsic%20Lock.md)
 * [자바 실행과정 - (tistory) 스터디룸](https://humahumahuma.tistory.com/150)
 * [자바 제네릭 - (tistory) 깡냉스님](https://cornswrold.tistory.com/180)
-* [자바 primitive type - (naver blog) 꼼지락](https://m.blog.naver.com/satyee/140127143696)
+* [자바 primitive type - (github) GimunLee/tech-refrigerator](https://github.com/GimunLee/tech-refrigerator/blob/master/Language/JAVA/Primitive%20type%20%26%20Reference%20type.md#primitive-type--reference-type)
+* [자바 Error & Exception](https://github.com/GimunLee/tech-refrigerator/blob/master/Language/JAVA/Error%20%26%20Exception.md#error--exception)
 * [Imuutable - (velog) conatuseus.log](https://velog.io/@conatuseus/Java-Immutable-Object%EB%B6%88%EB%B3%80%EA%B0%9D%EC%B2%B4)
 * [BigInteger, BigDecimal- hochulshin](http://hochulshin.com/java-big-number/)
 * [가비지 컬렉션 - YABOONG](https://yaboong.github.io/java/2018/06/09/java-garbage-collection/)
 * [Java Reference & GC - (naver d2) 박세훈님](https://d2.naver.com/helloworld/329631)
+* [Java Collection Framework - (tistory) 개발새발!](https://gbsb.tistory.com/247)
 <br>
 
 ## 안드로이드 <a href="#study_cs">:back:</a>
