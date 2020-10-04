@@ -229,7 +229,8 @@
   
 ## 리눅스
 <br>
-<p style="text-align:right;"><a href="#study_cs">[되돌아가기[</a></p>
+<p align="right"><a href="#study_cs">[되돌아가기]</a></p>
+
 ## 기타   
 <br>
 
