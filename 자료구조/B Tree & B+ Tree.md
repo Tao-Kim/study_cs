@@ -71,7 +71,7 @@ B-Tree의 변형 구조로, index 부분과 leaf 노드로 구성된 순차 데�
 > B-tree의 경우 최상 케이스에서는 루트에서 끝날 수 있지만, B+tree는 무조건 leaf 노드까지 내려가봐야 함
 
 
-![untitle](https://raw.githubusercontent.com/sayef/tech/master/uploads/2015/10/1-1024x463.jpg)
+![untitle](https://upload.wikimedia.org/wikipedia/commons/3/37/Bplustree.png)
 
 > 참고) [B+ tree 위키백과](https://ko.wikipedia.org/wiki/B%2B_%ED%8A%B8%EB%A6%AC)
 
