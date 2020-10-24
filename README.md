@@ -79,6 +79,7 @@
 
 ## 알고리즘 <a href="#study_cs">:back:</a>
 * [**정렬_Sort 정리**](https://github.com/Tao-Kim/study_cs/blob/master/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/%EC%A0%95%EB%A0%AC.md)  
+* [TimSort - GeeksforGeeks](https://www.geeksforgeeks.org/timsort/)
 * [분할정복법_Divide & Conquer - (tistory) 창굴이님](https://kimch3617.tistory.com/entry/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-%EB%B6%84%ED%95%A0%EC%A0%95%EB%B3%B5%EB%B2%95-Divide-and-Conquer)  
 * [탐욕법_Greedy Alogorithm - (tistory) 집밖은 위험해 OTL](https://throwexception.tistory.com/769)
 * [**동적계획법_Dynamic Programming**](https://github.com/Tao-Kim/study_cs/blob/master/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/%EB%8F%99%EC%A0%81%20%EA%B3%84%ED%9A%8D%EB%B2%95%20(Dynamic%20Programming).md)
