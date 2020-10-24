@@ -58,6 +58,7 @@
 * [조인](https://github.com/Tao-Kim/study_cs/blob/master/%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4/SQL%20-%20Join.md)
 * [정규화 - (tistory) DEEPPLAY님](https://3months.tistory.com/193)
 * [SQL vs NoSQL](https://github.com/Tao-Kim/study_cs/blob/master/%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4/SQL%20vs%20NoSQL.md)
+* [MongoDB 장단점 - Elky Essay](https://elky84.github.io/2018/09/26/mongodb/)
 * [레디스 REDIS - (tistory) sungho88님](https://codingmania.tistory.com/18)
 * [SQL Injection](https://github.com/Tao-Kim/study_cs/blob/master/%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4/SQL%20-%20Injection.md)
 * [프로시저, 함수, 트리거 - (tistory) palpit님](https://palpit.tistory.com/140)
