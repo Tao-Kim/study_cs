@@ -160,6 +160,7 @@
 * [함수형 프로그래밍](https://github.com/Tao-Kim/study_cs/blob/master/%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4%20%EA%B3%B5%ED%95%99/Fuctional%20Programming.md)
 * [데브옵스](https://github.com/Tao-Kim/study_cs/blob/master/%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4%20%EA%B3%B5%ED%95%99/%EB%8D%B0%EB%B8%8C%EC%98%B5%EC%8A%A4(DevOps).md)
 * [써드 파티](https://github.com/Tao-Kim/study_cs/blob/master/%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4%20%EA%B3%B5%ED%95%99/%EC%8D%A8%EB%93%9C%ED%8C%8C%ED%8B%B0(3rd%20party)%EB%9E%80.md)
+* [모듈 - SOFTWARE ENGINEERING](https://softwareengineering.stackexchange.com/questions/167859/what-actually-is-a-module-in-software-engineering)
 <br>
 
 ## 디자인 패턴 <a href="#study_cs">:back:</a>
