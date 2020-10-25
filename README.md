@@ -242,6 +242,7 @@
 * [JVM, DVM, ART - (medium) Charlezz님](https://medium.com/@charlezz/jvm-dvm-art-%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0-c51d10dc56e3)
 * [안드로이드 빌드과정 - (tistory) codedragon님](https://codedragon.tistory.com/8584)
 <br>
+* [Architecture](https://github.com/Tao-Kim/study_cs/blob/master/%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C/architecture.md)
   
 ## 리눅스 <a href="#study_cs">:back:</a>
 <br>
