@@ -98,7 +98,7 @@
 * [최장 증가 수열(LIS)](https://github.com/Tao-Kim/study_cs/blob/master/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/LIS%20(Longest%20Increasing%20Sequence).md)
 * [최소 공통 조상(LCA)](https://github.com/Tao-Kim/study_cs/blob/master/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/LCA(Lowest%20Common%20Ancestor).md)
 * [누적합 - Codility_](https://codility.com/media/train/3-PrefixSums.pdf)
-* [P-NP - (medium) Paul Yun](https://medium.com/@p.yun1994/p-np-np-hard-and-np-complete-problems-fe679bd1cf9c)
+* [P-NP - wkdtjsgur100](https://wkdtjsgur100.github.io/P-NP/)
 <br>
 
 ## 네트워크 <a href="#study_cs">:back:</a>
