@@ -154,6 +154,7 @@
 * [클린코드 & 리팩토링 & 시큐어코드](https://github.com/Tao-Kim/study_cs/blob/master/%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4%20%EA%B3%B5%ED%95%99/%ED%81%B4%EB%A6%B0%EC%BD%94%EB%93%9C(Clean%20Code)%20%26%20%EC%8B%9C%ED%81%90%EC%96%B4%EC%BD%94%EB%94%A9(Secure%20Coding).md)
 * [TDD](https://github.com/Tao-Kim/study_cs/blob/master/%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4%20%EA%B3%B5%ED%95%99/TDD(Test%20Driven%20Development).md)
 * [DDD]
+* [클린 아키텍처]
 * [애자일](https://github.com/Tao-Kim/study_cs/blob/master/%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4%20%EA%B3%B5%ED%95%99/%EC%95%A0%EC%9E%90%EC%9D%BC(Agile).md)
 * [**객체지향 프로그래밍**](https://github.com/Tao-Kim/study_cs/blob/master/%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4%20%EA%B3%B5%ED%95%99/Object-Oriented%20Programming.md)
 * [함수형 프로그래밍](https://github.com/Tao-Kim/study_cs/blob/master/%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4%20%EA%B3%B5%ED%95%99/Fuctional%20Programming.md)
